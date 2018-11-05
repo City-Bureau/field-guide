@@ -1,0 +1,17 @@
+baseurl = "/"
+languageCode = "en-us"
+languageLang = "en"
+title = "Documenters Field Guide"
+theme = "hyde"
+
+[params]
+  subtitle = "Field guide site"
+  themeColor = "theme-base-08"
+
+[menu]
+  [[menu.main]]
+    name = "Introduction"
+    url = "/intro"
+    weight = -100
+
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
