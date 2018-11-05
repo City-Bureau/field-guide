@@ -34,7 +34,7 @@ collections:
           - {label: "Intro", name: intro, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "text"}]}
-      - file: "site/content/_intro.md"
+      - file: "site/content/intro/_index.md"
         label: "Introduction"
         name: "intro"
         fields:
