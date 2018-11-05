@@ -1,6 +1,6 @@
 ---
-title: "Testing"
-subtitle: "Test Post"
+title: Testing
+date: 2018-11-05T15:50:48.584Z
+description: Testing intro blurb
 ---
-
-Test testtest
+Testing out Netlify editing
