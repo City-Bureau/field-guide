@@ -20,6 +20,8 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
+    folder: "site/content/page"
+    create: true
     files:
       - file: "site/content/_index.md"
         label: "Home Page"
@@ -40,3 +42,6 @@ collections:
         fields:
           - {label: Title, name: title, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: "Body", name: "body", widget: "markdown"}
