@@ -18,10 +18,15 @@ collections:
       - {label: "Intro Blurb", name: "description", widget: "text"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "pages"
+  - name: "page"
     label: "Pages"
     folder: "site/content/page"
     create: true
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "main"
+    label: "Main"
     files:
       - file: "site/content/_index.md"
         label: "Home Page"
@@ -42,6 +47,3 @@ collections:
         fields:
           - {label: Title, name: title, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
-    fields:
-      - {label: Title, name: title, widget: string}
-      - {label: "Body", name: "body", widget: "markdown"}
