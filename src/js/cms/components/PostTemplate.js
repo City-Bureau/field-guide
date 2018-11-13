@@ -2,17 +2,16 @@ import React, {Component} from "react";  // eslint-disable-line no-unused-vars
 
 export default class PostTemplate extends Component {
   render() {
-    const {entry} = this.props;
-    const {fields} = entry;
+    const {entry, widgetFor} = this.props;
 
     return (
       <main className="content">
         <article>
           <h1>
-            {fields.title.value}
+            {entry.getIn("data", "title")}
           </h1>
           <div>
-            {fields.body.preview}
+            {widgetFor("body")}
           </div>
         </article>
       </main>
