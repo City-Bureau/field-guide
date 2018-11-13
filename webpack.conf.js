@@ -3,8 +3,10 @@ import path from "path";
 
 export default {
   target: "web",
+  mode: "development",
   entry: {
-    app: ["./js/app"]
+    app: ["./js/app"],
+    cms: ["./js/cms/index"],
   },
   output: {
     path: path.join(__dirname, "dist"),

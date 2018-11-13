@@ -85,13 +85,13 @@ section.hero.is-fullheight {
       &.is-content {
         flex-direction: column;
         justify-content: space-between;
-
-        main {
-          padding: grid(3);
-        }
       }
     }
   }
+}
+
+main.content {
+  padding: grid(3);
 }
 
 @media screen and (max-width: $tablet) {
