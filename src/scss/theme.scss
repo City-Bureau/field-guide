@@ -1,0 +1,66 @@
+// Layout
+
+$maxWidth: 1440px;
+$backgroundColor: #f4f4f4;
+
+// Grid
+
+@function grid($n) { @return $n * $gridSize; }
+$gridSize: 8px;
+
+// Colors
+
+$white: #ffffff;
+$black: #000000;
+$gray: #808080;
+$grayDark: #444444;
+$grayDark2: #8c8c8c;
+$grayDark3: #767676;
+$grayLight1: #bbbbbb;
+$grayLight2: #e3e3e3;
+$grayLight3: #f4f4f4;
+$grayLight4: #d5d5d5;
+$grayLight5: #d8d8d8;
+$lightBlue: #edf5ff;
+$filterInputBgColor: #fafafa;
+$blue: #0c6dde;
+$darkBlue: #024ba0;
+$lightBlue: #dcecff;
+$red: #d0021b;
+$green: #058346;
+$borderColor: $grayLight5;
+$primaryColor: $blue;
+$primaryLight: #edf5ff;
+$accentColor: #f8e71c;
+$warningColor: $red;
+$bodyTextColor: $grayDark;
+
+$itemBgColor: #021f40;
+$lastWeekBgColor: $grayDark;
+$beyondBgColor: $grayLight3;
+$thisWeekBgColor: $accentColor;
+$nextWeekBgColor: #d6d5d5;
+$laterBgColor: #8c8c8c;
+$lastWeekColor: $white;
+$beyondColor: $grayDark;
+$thisWeekColor: $grayDark;
+$nextWeekColor: $grayDark;
+$laterColor: $white;
+
+$formInputColor: #d8d8d8;
+$formInputBgColor: $grayLight3;
+$formInputBorder: solid 1px $formInputColor;
+$formInputLabelColor: $grayDark3;
+
+$navbarMenuHeight: 3rem;
+
+// Borders, shadows
+
+$defaultBorder: solid 1px $borderColor;
+$defaultBoxShadow: 0 1px 1px 0 rgba(0, 0, 0, 0.15);
+
+// Fonts
+
+$defaultFontStack: "aktiv-grotesk", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+$headerFontStack: $defaultFontStack;
+$altFontStack: "Governor", $defaultFontStack;

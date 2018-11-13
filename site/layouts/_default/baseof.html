@@ -1,11 +1,25 @@
 {{ partial "head.html" . }}
-  <body class="{{ .Site.Params.themeColor }} {{if .Site.Params.layoutReverse}}layout-reverse{{end}}">
-  {{ partial "sidebar.html" . }}
-    <main class="content container">
-    {{ block "main" . -}}{{- end }}
-    </main>
-
-    {{ template "_internal/google_analytics_async.html" . }}
+  <body>
+    <section class="section hero is-fullheight">
+      <div class="columns">
+        <div class="column is-3 sidebar is-flex">
+          {{ partial "sidebar.html" . }}
+        </div>
+        <div class="column is-content is-flex">
+          <main class="content">
+            {{ block "main" . -}}{{- end }}
+          </main>
+          <footer class="footer">
+            <div class="content has-text-centered">
+              <p class="brand">A City Bureau project</p>
+              <small>
+                {{ with .Site.Params.copyright }}{{.}}{{ else }}&copy; {{ now.Format "2006"}}. All rights reserved. {{end}}
+              </small>
+            </div>
+          </footer>
+        </div>
+      </div>
+    </section>
     {{ partial "footer.html" . }}
   </body>
 </html>

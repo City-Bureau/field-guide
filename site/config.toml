@@ -2,16 +2,17 @@ baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
 title = "Documenters Field Guide"
-theme = "hyde"
+
 
 [params]
   subtitle = "Field guide site"
-  themeColor = "theme-base-08"
+  description = "Field guide for Documenters program"
+  author = "City Bureau"
 
 [menu]
   [[menu.main]]
     name = "Introduction"
-    url = "/intro"
+    url = "/intro/"
     weight = -100
 
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]

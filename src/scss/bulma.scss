@@ -1,0 +1,28 @@
+@import './node_modules/bulma/sass/utilities/initial-variables.sass';
+@import './node_modules/bulma/sass/utilities/functions.sass';
+@import 'theme.scss';
+
+$blue: $primaryColor;
+$primary: $blue;
+$info: $accentColor;
+$red: $warningColor;
+$grey-dark: $bodyTextColor;
+
+$radius: 2px;
+$radius-small: 2px;
+$radius-large: 4px;
+$tag-radius: 2px;
+
+$label-color: $grey-dark;
+$input-border-color: $grayLight4;
+$input-shadow: none;
+
+$background: $backgroundColor;
+$navbar-item-color: $grayDark2;
+$section-padding: 1rem;
+$footer-background-color: #d8d8d8;
+
+$family-sans-serif: $defaultFontStack;
+$link-hover: $red;
+
+@import './node_modules/bulma/bulma.sass';

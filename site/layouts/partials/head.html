@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"{{with .Site.LanguageCode}} xml:lang="{{.}}" lang="{{.}}"{{end}}>
+<head>
+  <meta charset="utf-8" />
+  <link href="//gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  {{ .Hugo.Generator }}
+
+  <meta name="application-name" content="{{ .Site.Title }}" />
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  {{ if .IsHome -}}
+  <title>{{ .Site.Title }}</title>
+  {{- else -}}
+  <title>{{ .Title }} | {{ .Site.Title }}</title>
+  {{- end }}
+  <meta name="description" content="{{ .Site.Params.description }}">
+  <meta name="author" content="{{ .Site.Params.author }}">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="https://use.typekit.net/xbg0srh.css">
+  <link type="text/css" rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css">
+
+  <!-- Icons -->
+  <link rel="shortcut icon" href="/icons/favicon.ico" />
+  <link rel="icon" type="image/png" href="/icons/favicon-196x196.png" sizes="196x196" />
+  <link rel="icon" type="image/png" href="/icons/favicon-96x96.png" sizes="96x96" />
+  <link rel="icon" type="image/png" href="/icons/favicon-32x32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="/icons/favicon-16x16.png" sizes="16x16" />
+  <link rel="icon" type="image/png" href="/icons/favicon-128.png" sizes="128x128" />
+
+  <!-- RSS -->
+  <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+</head>
