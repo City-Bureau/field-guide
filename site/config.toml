@@ -11,8 +11,33 @@ title = "Documenters Field Guide"
 
 [menu]
   [[menu.main]]
+    identifier = "intro"
     name = "Introduction"
     url = "/intro/"
-    weight = -100
+    weight = 1
+  [[menu.main]]
+    identifier = "before-you-begin"
+    name = "Before You Begin"
+    url = "/before-you-begin/"
+    weight = 2
+  [[menu.main]]
+    identifier = "attendance"
+    name = "Attendance"
+    url = "/attendance/"
+    weight = 3
+  [[menu.main]]
+    identifier = "documenting"
+    name = "Documenting"
+    url = "/documenting/"
+    weight = 4
+  [[menu.main]]
+    identifier = "going-public"
+    name = "Going Public"
+    url = "/going-public/"
+    weight = 5
+  
 
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+
+[blackFriday]
+  hrefTargetBlank = true

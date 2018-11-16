@@ -143,6 +143,24 @@ main.content {
       }
     }
   }
+
+  li {
+    ul {
+      margin: 0.5em 0;
+
+      li {
+        font-size: 14px;
+
+        a {
+          padding: 0;
+        }
+
+        &:not(:last-child) {
+          margin-bottom: 0.75em;
+        }
+      } 
+    }
+  }
 }
 
 .footer {
@@ -187,4 +205,25 @@ article {
       color: $red;
     }
   }
+}
+
+.content ul.task-list {
+  list-style: none;
+  margin-left: 0;
+
+  li input {
+    margin-right: grid(1);
+  }
+}
+
+input[type=checkbox] {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  width: grid(2);
+  height: grid(2);
+  background-color: $white;
+  border: $defaultBorder;
+  border-color: $grayDark2;
+  border-radius: grid(0.25);
+  box-shadow: none;
 }

@@ -10,11 +10,25 @@
       {{ range .Site.Menus.main -}}
       <li>
         <a
-          {{if or ($page.IsMenuCurrent "main" .) ($page.HasMenuCurrent "main" .)}}
+          {{if $page.IsMenuCurrent "main" .}}
           class="active"
           {{end}}
           href="{{.URL}}"
         >{{ .Name }}</a>
+        {{if .HasChildren }}
+        <ul>
+          {{ range .Children }}
+          <li>
+            <a
+              {{if $page.IsMenuCurrent "main" .}}
+              class="active"
+              {{end}}
+              href="{{ .URL }}"
+            >{{ .Name }}</a>
+          </li>
+          {{ end }}
+        </ul>
+        {{ end }}
       </li>
       {{- end }}
     </ul>

@@ -25,6 +25,34 @@ collections:
     fields:
       - {label: Title, name: title, widget: string}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "attendance"
+    label: "Attendance"
+    folder: "site/content/attendance"
+    create: true
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "before-you-begin"
+    label: "Before you begin"
+    folder: "site/content/before-you-begin"
+    create: true
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "documenting"
+    label: "Documenting"
+    folder: "site/content/documenting"
+    create: true
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "going-public"
+    label: "Going public"
+    folder: "site/content/going-public"
+    create: true
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "main"
     label: "Main"
     files:
