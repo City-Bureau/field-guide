@@ -1,4 +1,3 @@
 ---
 title: "Attendance"
-layout: "single"
 ---

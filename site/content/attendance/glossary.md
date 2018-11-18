@@ -1,9 +1,5 @@
 ---
 title: Glossary of Terms
-menu:
-    main:
-        parent: 'attendance'
-        weight: 50
 ---
 * **Adjourn**: to hold a meeting over until a later date.
 * **Agenda**: a schedule of items drawn up for discussion at a meeting

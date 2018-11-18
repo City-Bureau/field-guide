@@ -1,9 +1,5 @@
 ---
 title: Mobile Photography and Video Recording
-menu:
-    main:
-        parent: 'documenting'
-        weight: 50
 ---
 When it comes to documentation, text is better with images. Be sure to take video and/or photos of your meeting to add context and color to your notes, social media or newsletter.
 

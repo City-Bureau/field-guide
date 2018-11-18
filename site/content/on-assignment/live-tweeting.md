@@ -48,5 +48,5 @@ Note: All Documenters live-tweeting assignments must be tweeted in a single "thr
 * Check your notifications for replies and responses
 * When possible, refer to people and organizations directly by using the @ function
 * Tweet video and/or photos of the meeting along with your posted text
-* See the Meeting Notes Checklist for content recommendations (see [Notetaking checklist](/documenting/notetaking/#checklist) for more details)
+* See the Meeting Notes Checklist for content recommendations (see [Notetaking checklist](/on-assignment/notetaking/#checklist) for more details)
 * Follow local officials and attendees for future updates and communication

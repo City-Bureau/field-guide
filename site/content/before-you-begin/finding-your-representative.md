@@ -1,9 +1,5 @@
 ---
 title: Finding Your Representative
-menu:
-    main:
-        parent: 'before-you-begin'
-        weight: 20
 ---
 ## Chicago City Council
 

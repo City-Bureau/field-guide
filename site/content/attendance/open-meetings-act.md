@@ -1,9 +1,5 @@
 ---
 title: Open Meetings Act
-menu:
-    main:
-        parent: 'attendance'
-        weight: 10
 ---
 The Open Meetings Act is an Illinois state law that requires meetings of public bodies to be open to the public except in certain, specific situations. The OMA ensures that the actions of public bodies are conducted in the open, during public meetings, and that the public is able to observe the deliberations behind those actions. The public must be given advance notice of the time, place and subject matter of meetings of public bodies.
 

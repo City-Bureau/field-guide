@@ -1,9 +1,5 @@
 ---
 title: Finding Local Meetings
-menu:
-    main:
-        parent: 'before-you-begin'
-        weight: 30
 ---
 Examples of common city services governed by boards, committees, commissions and advisory councils and subject to the Open Meetings Act.
 

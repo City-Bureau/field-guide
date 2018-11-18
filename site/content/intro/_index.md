@@ -1,6 +1,5 @@
 ---
 title: "Documenters Intro"
-layout: "single"
 ---
 
 Public meetings are important spaces for democracy, where any resident can participate in civic life and hold public figures accountable. But how does the public know when meetings are happening? It isn’t easy! These events are spread across dozens of websites, rarely in useful data formats.

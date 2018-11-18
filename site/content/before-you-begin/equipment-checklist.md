@@ -1,9 +1,5 @@
 ---
 title: Equipment Checklist
-menu:
-    main:
-        parent: 'before-you-begin'
-        weight: 50
 ---
 
 - [ ] Pocket Field Guide

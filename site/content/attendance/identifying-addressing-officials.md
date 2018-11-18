@@ -1,9 +1,5 @@
 ---
 title: Identifying yourself and addressing officials
-menu:
-    main:
-        parent: 'attendance'
-        weight: 30
 ---
 ## Addressing officials
 There are no laws governing how citizens address public officials at public governance meetings. When in doubt, use good judgment.

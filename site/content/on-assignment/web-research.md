@@ -1,9 +1,5 @@
 ---
 title: Web Research
-menu:
-    main:
-        parent: 'documenting'
-        weight: 30
 ---
 Accurate news articles, academic research, meeting agendas and related governmental websites can add context and background to your documentation. Here are some avenues for further exploration:
 

@@ -1,9 +1,5 @@
 ---
 title: Attendance Checklist
-menu:
-    main:
-        parent: 'attendance'
-        weight: 40
 ---
 ## Do
 

@@ -1,9 +1,5 @@
 ---
 title: Curating your newsletter or blog
-menu:
-    main:
-        parent: 'going-public'
-        weight: 10
 ---
 An old trope of good writing says to “write what you know.” The same can be said of local news and information. One way to help inform your community is to start a community newsletter If you have a question about your local alderman, your neighborhood school, your local city services or a national trend that relates to your community, there’s a good chance your neighbor could benefit from the same information. With your new media skills, you can take part in finding answers.
 

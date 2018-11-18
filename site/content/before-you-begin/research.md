@@ -1,9 +1,5 @@
 ---
 title: Pre-research
-menu:
-    main:
-        parent: 'before-you-begin'
-        weight: 40
 ---
 If you’ve selected your meeting or area of interest, be sure to study up before you attend.
 

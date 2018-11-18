@@ -1,9 +1,5 @@
 ---
 title: Mobile Audio Recording
-menu:
-    main:
-        parent: 'documenting'
-        weight: 60
 ---
 Missed that important quote or phone number? Consider using your phone as an audio recording device during board meetings and interviews. Having a clear audio recording can save time and ensure accuracy by providing a verbatim record.
 
