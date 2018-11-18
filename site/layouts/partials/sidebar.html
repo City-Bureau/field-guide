@@ -10,7 +10,7 @@
       {{ range .Site.Menus.main -}}
       <li>
         <a
-          {{if $page.IsMenuCurrent "main" .}}
+          {{if or ($page.IsMenuCurrent "main" .) (hasPrefix $page.URL .URL)}}
           class="active toggle"
           {{else}}
           class="toggle"

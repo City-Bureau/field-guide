@@ -85,7 +85,16 @@ section.hero.is-fullheight {
       &.is-content {
         flex-direction: column;
         justify-content: space-between;
+        padding-left: grid(3);
       }
+    }
+  }
+}
+
+@media screen and (max-width: $tablet) {
+  section.hero.is-fullheight {
+    & > .columns > .column.is-content {
+      padding-left: 0;
     }
   }
 }
@@ -129,7 +138,7 @@ main.content {
       border: 0.5px $bodyTextColor solid;
       border-radius: 50%;
       position: absolute;
-      right: 0;
+      right: grid(-1);
       top: calc(50% - #{grid(0.5)});
       box-shadow: 0 1px 2px 0 rgba(0,0,0,0.15);
     }
