@@ -11,16 +11,21 @@
       <li>
         <a
           {{if $page.IsMenuCurrent "main" .}}
-          class="active"
+          class="active toggle"
+          {{else}}
+          class="toggle"
           {{end}}
+          {{if .HasChildren}}
+          {{else}}
           href="{{.URL}}"
+          {{end}}
         >{{ .Name }}</a>
         {{if .HasChildren }}
         <ul>
           {{ range .Children }}
           <li>
             <a
-              {{if $page.IsMenuCurrent "main" .}}
+              {{if eq $page.URL .URL }}
               class="active"
               {{end}}
               href="{{ .URL }}"

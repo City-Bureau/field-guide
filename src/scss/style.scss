@@ -62,7 +62,7 @@ section.hero.is-fullheight {
 
         aside.menu {
           padding: grid(2);
-          background-color: $white;
+          background-color: #ffaf20;
           flex: 1 1 auto;
           flex-direction: column;
 
@@ -92,6 +92,15 @@ section.hero.is-fullheight {
 
 main.content {
   padding: grid(3);
+
+  h1, h2 {
+    font-weight: normal;
+    text-transform: uppercase;
+  }
+
+  .post > h1:first-child {
+    margin-bottom: grid(4);
+  }
 }
 
 @media screen and (max-width: $tablet) {
@@ -125,11 +134,19 @@ main.content {
       box-shadow: 0 1px 2px 0 rgba(0,0,0,0.15);
     }
 
+    & + ul {
+      display: none;
+    }
+
     &.active {
       color: $black;
 
       &::after {
         content: '';
+      }
+
+      & + ul {
+        display: inherit;
       }
     }
     
@@ -160,6 +177,14 @@ main.content {
         }
       } 
     }
+
+    &.active + ul {
+      display: inherit;
+    }
+  }
+
+  & > li > a {
+    text-transform: uppercase;
   }
 }
 
@@ -207,9 +232,13 @@ article {
   }
 }
 
-.content ul.task-list {
-  list-style: none;
-  margin-left: 0;
+.content ul {
+  margin-left: grid(2);
+
+  &.task-list {
+    margin-left: 0;
+    list-style: none;
+  }
 
   li input {
     margin-right: grid(1);
