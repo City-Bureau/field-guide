@@ -85,22 +85,14 @@ section.hero.is-fullheight {
       &.is-content {
         flex-direction: column;
         justify-content: space-between;
-        padding-left: grid(3);
       }
-    }
-  }
-}
-
-@media screen and (max-width: $tablet) {
-  section.hero.is-fullheight {
-    & > .columns > .column.is-content {
-      padding-left: 0;
     }
   }
 }
 
 main.content {
   padding: grid(3);
+  padding-left: grid(5);
 
   h1, h2 {
     font-weight: normal;
@@ -122,6 +114,10 @@ main.content {
         font-size: 18px;
       }
     }
+  }
+
+  main.content {
+    padding-left: grid(3);
   }
 }
 

@@ -9,16 +9,16 @@
           <main class="content">
             {{ block "main" . -}}{{- end }}
           </main>
-          <footer class="footer">
-            <div class="content has-text-centered">
-              <p class="brand">A City Bureau project</p>
-              <small>
-                {{ with .Site.Params.copyright }}{{.}}{{ else }}&copy; {{ now.Format "2006"}}. All rights reserved. {{end}}
-              </small>
-            </div>
-          </footer>
         </div>
       </div>
+      <footer class="footer">
+        <div class="content has-text-centered">
+          <p class="brand">A City Bureau project</p>
+          <small>
+            {{ with .Site.Params.copyright }}{{.}}{{ else }}&copy; {{ now.Format "2006"}}. All rights reserved. {{end}}
+          </small>
+        </div>
+      </footer>
     </section>
     {{ partial "footer.html" . }}
   </body>
