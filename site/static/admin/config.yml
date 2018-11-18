@@ -39,9 +39,9 @@ collections:
     fields:
       - {label: Title, name: title, widget: string}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "documenting"
-    label: "Documenting"
-    folder: "site/content/documenting"
+  - name: "on-assignment"
+    label: "On assignment"
+    folder: "site/content/on-assignment"
     create: true
     fields:
       - {label: Title, name: title, widget: string}
