@@ -8,7 +8,8 @@ Note: All Documenters live-tweeting assignments must be tweeted in a single "thr
 ## On assignment
 
 1. Your first tweet must include the following text:
-   > **Hi, I'm (your first name), I’ll be live-tweeting (name/title of event) for @ChiDocumenters**
+
+    > **Hi, I'm (your first name), I’ll be live-tweeting (name/title of event) for @ChiDocumenters**
 2. Try to include the following in your live-tweet thread:
 
 * Reason for the meeting (why are people here?)
