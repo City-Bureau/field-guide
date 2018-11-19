@@ -10,7 +10,8 @@
     "build-preview": "NODE_ENV=production gulp build-preview",
     "start": "NODE_ENV=development gulp server",
     "start-preview": "NODE_ENV=development gulp server-preview",
-    "lint": "eslint src"
+    "lint": "eslint src",
+    "deploy": "az storage blob upload-batch -s ./dist/ -d \"https://documentersguide.blob.core.windows.net/\\$web\""
   },
   "author": "",
   "license": "",

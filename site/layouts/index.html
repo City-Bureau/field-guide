@@ -1,17 +1,8 @@
 {{ define "main" -}}
-<div class="posts">
-{{ range where .Data.Pages "Section" "post" }}
-  <article class="post">
-    <h1 class="title">
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
-    </h1>
-    {{ .Summary }}
-    {{ if .Truncated }}
-    <div class="read-more-link">
-      <a href="{{ .RelPermalink }}">Read More…</a>
-    </div>
-    {{ end }}
-  </article>
-{{- end }}
-</div>
+<article>
+  <div class="post">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+  </div>
+</article>
 {{- end }}

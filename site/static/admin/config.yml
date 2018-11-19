@@ -63,9 +63,3 @@ collections:
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: string}
           - {label: Image, name: image, widget: image}
-      - file: "site/content/intro/_index.md"
-        label: "Introduction"
-        name: "intro"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: "Body", name: "body", widget: "markdown"}

@@ -11,11 +11,6 @@ title = "Documenters Field Guide"
 
 [menu]
   [[menu.main]]
-    identifier = "intro"
-    name = "Introduction"
-    url = "/intro/"
-    weight = 1
-  [[menu.main]]
     identifier = "before-you-begin"
     name = "Before You Begin"
     url = "/before-you-begin/"
