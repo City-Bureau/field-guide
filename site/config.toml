@@ -116,25 +116,10 @@ title = "Documenters Field Guide"
     url = "/going-public/"
     weight = 5
   [[menu.main]]
-    name = "Curating your newsletter or blog"
-    parent = "going-public"
-    url = "/going-public/newsletter-blog/"
-    weight = 10
-  [[menu.main]]
     name = "Freedom of Information Act Requests"
     parent = "going-public"
     url = "/going-public/foia/"
     weight = 20
-  [[menu.main]]
-    name = "Working with your local newspaper"
-    parent = "going-public"
-    url = "/going-public/local-newspaper/"
-    weight = 30
-  [[menu.main]]
-    name = "Reporting back"
-    parent = "going-public"
-    url = "/going-public/reporting-back/"
-    weight = 40
   
 
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
