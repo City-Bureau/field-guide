@@ -1,41 +1,43 @@
 <aside class="menu is-flex">
-  <div class="is-main-link">
-    <a href="{{ .Site.BaseURL }}">
-      <h1>{{ .Site.Title }}</h1>
-    </a>
-  </div>
-  <div>
-    <ul class="menu-list">
-      {{ $page := . }}
-      {{ range .Site.Menus.main -}}
-      <li>
-        <a
-          {{if or ($page.IsMenuCurrent "main" .) (hasPrefix $page.URL .URL)}}
-          class="active toggle"
-          {{else}}
-          class="toggle"
-          {{end}}
-          {{if .HasChildren}}
-          {{else}}
-          href="{{.URL}}"
-          {{end}}
-        >{{ .Name }}</a>
-        {{if .HasChildren }}
-        <ul>
-          {{ range .Children }}
-          <li>
-            <a
-              {{if eq $page.URL .URL }}
-              class="active"
-              {{end}}
-              href="{{ .URL }}"
-            >{{ .Name }}</a>
-          </li>
+  <div class="sticky-sidebar">
+    <div class="is-main-link">
+      <a href="{{ .Site.BaseURL }}">
+        <h1>{{ .Site.Title }}</h1>
+      </a>
+    </div>
+    <div>
+      <ul class="menu-list">
+        {{ $page := . }}
+        {{ range .Site.Menus.main -}}
+        <li>
+          <a
+            {{if or ($page.IsMenuCurrent "main" .) (hasPrefix $page.URL .URL)}}
+            class="active toggle"
+            {{else}}
+            class="toggle"
+            {{end}}
+            {{if .HasChildren}}
+            {{else}}
+            href="{{.URL}}"
+            {{end}}
+          >{{ .Name }}</a>
+          {{if .HasChildren }}
+          <ul>
+            {{ range .Children }}
+            <li>
+              <a
+                {{if eq $page.URL .URL }}
+                class="active"
+                {{end}}
+                href="{{ .URL }}"
+              >{{ .Name }}</a>
+            </li>
+            {{ end }}
+          </ul>
           {{ end }}
-        </ul>
-        {{ end }}
-      </li>
-      {{- end }}
-    </ul>
+        </li>
+        {{- end }}
+      </ul>
+    </div>
   </div>
 </aside>
