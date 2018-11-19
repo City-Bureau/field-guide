@@ -93,7 +93,7 @@ section.hero.is-fullheight {
 main.content {
   padding: grid(4) grid(8);
 
-  h1, h2 {
+  h1, h2, h3, h4 {
     font-weight: normal;
     text-transform: uppercase;
   }
@@ -101,15 +101,15 @@ main.content {
   .post > h1:first-child {
     margin-bottom: grid(4);
   }
+
+  img {
+    max-height: 400px;
+  }
 }
 
 .sticky-sidebar {
   position: sticky;
   top: grid(2);
-  min-height: calc(100vh - #{grid(4)});
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
 }
 
 @media screen and (max-width: $tablet) {
@@ -126,10 +126,6 @@ main.content {
 
   main.content {
     padding: grid(2);
-  }
-
-  .sticky-sidebar {
-    min-height: unset;
   }
 }
 
