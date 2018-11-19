@@ -248,7 +248,8 @@ article {
 .content ul {
   margin-left: grid(2);
 
-  &.task-list {
+  &.task-list,
+  li.task-list-item {
     margin-left: 0;
     list-style: none;
   }
