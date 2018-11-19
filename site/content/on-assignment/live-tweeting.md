@@ -8,8 +8,7 @@ Note: All Documenters live-tweeting assignments must be tweeted in a single "thr
 ## On assignment
 
 1. Your first tweet must include the following text:
-    
-    > **Hi, I'm (your first name), I’ll be live-tweeting (name/title of event) for @ChiDocumenters**
+   > **Hi, I'm (your first name), I’ll be live-tweeting (name/title of event) for @ChiDocumenters**
 2. Try to include the following in your live-tweet thread:
 
 * Reason for the meeting (why are people here?)
@@ -44,12 +43,12 @@ Note: All Documenters live-tweeting assignments must be tweeted in a single "thr
 
 ## Checklist
 
-* Create a Twitter account if you don’t have one
-* Call ahead to check for available wi-fi connection
-* Search and use popular or common hashtags related to the meeting, department or issue
-* Send multiple tweets via a single “thread”
-* Check your notifications for replies and responses
-* When possible, refer to people and organizations directly by using the @ function
-* Tweet video and/or photos of the meeting along with your posted text
-* See the Meeting Notes Checklist for content recommendations (see [Notetaking checklist](/on-assignment/notetaking/#checklist) for more details)
-* Follow local officials and attendees for future updates and communication
+- [ ] Create a Twitter account if you don’t have one
+- [ ] Call ahead to check for available wi-fi connection
+- [ ] Search and use popular or common hashtags related to the meeting, department or issue
+- [ ] Send multiple tweets via a single “thread”
+- [ ] Check your notifications for replies and responses
+- [ ] When possible, refer to people and organizations directly by using the @ function
+- [ ] Tweet video and/or photos of the meeting along with your posted text
+- [ ] See the Meeting Notes Checklist for content recommendations (see [Notetaking checklist](/on-assignment/notetaking/#checklist) for more details)
+- [ ] Follow local officials and attendees for future updates and communication

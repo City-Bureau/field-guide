@@ -37,9 +37,9 @@ Note: All Documenters live-tweeting assignments must be tweeted in a single "thr
 
 ## Threading your tweets
 
-![](/img/field-guide-live-tweet2.png)
-
 ![](/img/field-guide-live-tweet1.png)
+
+![](/img/field-guide-live-tweet-2.png)
 
 ## Checklist
 
