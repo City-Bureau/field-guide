@@ -9,6 +9,6 @@ The council’s 19 standing committees work with individual departments to revie
 
 ## Finding your representative
 
-Your Illinois representatives can be found by navigating to the [Chicago Board of Elections website](https://chicagoelections.com/)—>Your voter information—>Public Officials
+Your Illinois representatives can be found by navigating to the [Chicago Board of Elections website](https://chicagoelections.com/en/your-voter-information.html/)
 
-Type in your address to see listings for your local alderman, state officials and federal representatives.including an office address, phone number and official website for each.
+Type in your address to see listings for your local alderman, state officials and federal representatives, including office address, phone number and official website for each.
