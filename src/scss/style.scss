@@ -62,7 +62,7 @@ section.hero.is-fullheight {
 
         aside.menu {
           padding: grid(2);
-          background-color: #ffaf20;
+          background-color: $accentColor;
           flex: 1 1 auto;
           flex-direction: column;
 
@@ -72,7 +72,7 @@ section.hero.is-fullheight {
 
           h1 {
             font-family: $altFontStack;
-            font-size: 24px;
+            font-size: 28px;
             color: $black;
 
             &:hover {
@@ -97,6 +97,26 @@ main.content {
     font-weight: normal;
     text-transform: uppercase;
   }
+
+  h1 {
+    font-size: 26px;
+  }
+
+  h2 {
+    font-size: 22px;
+  }
+
+  h3 {
+    font-size: 20px;
+  }
+
+  h4 {
+    font-size: 18px;
+  }
+
+  h5, h6 {
+    font-size: 16px;
+  } 
 
   .post > h1:first-child {
     margin-bottom: grid(4);
