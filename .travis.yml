@@ -22,4 +22,3 @@ cache:
 script:
   - yarn build
   - az storage blob upload-batch -s ./dist/ -d '$web' --account-name documentersguide
-  - az cdn endpoint purge -g documenters -n documentersguide --profile-name documentersguide --content-paths "/*"
