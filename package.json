@@ -14,8 +14,8 @@
     "purge": "az cdn endpoint purge -g documenters -n documentersguide --profile-name documentersguide --content-paths '/*'",
     "deploy": "az storage blob upload-batch -s ./dist/ -d \"https://documentersguide.blob.core.windows.net/\\$web\""
   },
-  "author": "",
-  "license": "",
+  "author": "City Bureau",
+  "license": "CC-BY-NC-SA-4.0",
   "devDependencies": {
     "@babel/core": "^7.1.2",
     "@babel/plugin-proposal-object-rest-spread": "^7.0.0",

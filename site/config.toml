@@ -1,8 +1,8 @@
-baseurl = "/"
+baseURL = "/"
 languageCode = "en-us"
 languageLang = "en"
 title = "Documenters Field Guide"
-
+enableRobotsTXT = true
 
 [params]
   subtitle = "Field guide site"
