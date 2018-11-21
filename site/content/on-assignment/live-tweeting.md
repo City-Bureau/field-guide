@@ -12,14 +12,14 @@ Note: All Documenters live-tweeting assignments must be tweeted in a single "thr
     > **Hi, I'm (your first name), I’ll be live-tweeting (name/title of event) for @ChiDocumenters**
 2. Try to include the following in your live-tweet thread:
 
-* Reason for the meeting (why are people here?)
-* Start time (i.e. Did the meeting start on time?)
-* Number of people at the event (not including city officials)
-* List names of presenters at the meeting (include titles, affiliations and twitter handles, if applicable)
-* Tweet any stated goals of the meeting and any actions taken (i.e. motions passed)
-* Tweet the main concerns of attendees and why those concerns were raised
-* Tweet any next steps and solutions
-* Describe features of the room and/or the overall environment (i.e. Was the crowd eager or angry? Did the presenters seem prepared?)
+    * Reason for the meeting (why are people here?)
+    * Start time (i.e. Did the meeting start on time?)
+    * Number of people at the event (not including city officials)
+    * List names of presenters at the meeting (include titles, affiliations and twitter handles, if applicable)
+    * Tweet any stated goals of the meeting and any actions taken (i.e. motions passed)
+    * Tweet the main concerns of attendees and why those concerns were raised
+    * Tweet any next steps and solutions
+    * Describe features of the room and/or the overall environment (i.e. Was the crowd eager or angry? Did the presenters seem prepared?)
 
 3. End your thread by signing off—include the @ChiDocumenters hashtag in your final tweet. When possible let your followers know when the next meeting is.
 
