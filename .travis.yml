@@ -21,8 +21,5 @@ cache:
     - node_modules
 script:
   - yarn build
-deploy:
-  - provider: script
-    script: az storage blob upload-batch -s ./dist/ -d "https://documentersguide.blob.core.windows.net/\$web"
-  - provider: script
-    script: az cdn endpoint purge -g documenters -n documentersguide --profile-name documentersguide --content-paths '/*'
+  - az storage blob upload-batch -s ./dist/ -d '$web' --account-name documentersguide
+  - az cdn endpoint purge -g documenters -n documentersguide --profile-name documentersguide --content-paths "/*"
