@@ -17,18 +17,18 @@ Paired with good notetaking, great interviewing skills can mean the difference b
 
 ## Checklist
 
-[ ]Do your research and make a list of pre-interview questions
+- [ ] Do your research and make a list of pre-interview questions
 
-If your interview is scheduled, always show up early
+- [ ] If your interview is scheduled, always show up early
 
-When interviewing in the field, seek out a diverse field of interviewees
+- [ ] When interviewing in the field, seek out a diverse field of interviewees
 
-Introduce yourself
+- [ ] Introduce yourself
 
-Have your interviewee spell his or her full name
+- [ ] Have your interviewee spell his or her full name
 
-Ask open- and closed-ended questions
+- [ ] Ask open- and closed-ended questions
 
-Always write quotes verbatim (be sure to note when paraphrasing)
+- [ ] Always write quotes verbatim (be sure to note when paraphrasing)
 
-**Recommended**: Use a recording device (always ask for permission to record)
+- [ ] **Recommended**: Use a recording device (always ask for permission to record)
