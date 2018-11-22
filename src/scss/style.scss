@@ -92,6 +92,11 @@ section.hero.is-fullheight {
 
 main.content {
   padding: grid(4) grid(8);
+  margin: 0 auto;
+
+  article {
+    width: grid(75);
+  }
 
   h1, h2, h3, h4 {
     font-weight: normal;
@@ -99,7 +104,7 @@ main.content {
   }
 
   h1 {
-    font-size: 26px;
+    font-size: 28px;
   }
 
   h2 {
@@ -146,6 +151,11 @@ main.content {
 
   main.content {
     padding: grid(2);
+
+    article {
+      width: unset;
+      max-width: grid(75);
+    }
   }
 }
 
