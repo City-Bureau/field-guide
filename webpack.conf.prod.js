@@ -1,11 +1,13 @@
 const path = require("path");
 const webpack = require("webpack");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
+const OptimizeCSSAssetsPlugin = require("optimize-css-assets-webpack-plugin");
+const UglifyJsPlugin = require("uglifyjs-webpack-plugin");
 
 const config = {
   target: "web",
   devtool: "source-map",
-  mode: "development",
+  mode: "production",
   entry: {
     app: ["es6-shim", "babel-polyfill", path.resolve("./src/entry")],
     cms: [path.resolve("./src/js/cms/index")]
@@ -24,21 +26,39 @@ const config = {
           enforce: true
         }
       }
-    }
+    },
+    minimizer: [
+      new UglifyJsPlugin({
+        cache: true,
+        parallel: true,
+        sourceMap: true
+      }),
+      new OptimizeCSSAssetsPlugin({})
+    ]
   },
   module: {
     rules: [
       {
-        loader: "babel-loader",
         test: /\.jsx?$/,
         exclude: /node_modules/,
-        query: {cacheDirectory: true}
+        use: [
+          {
+            loader: "babel-loader"
+          }
+        ]
       },
       {
         test: /\.(sass|scss|css)$/,
         use: [
           MiniCssExtractPlugin.loader,
           "css-loader",
+          {
+            loader: "postcss-loader",
+            options: {
+              // eslint-disable-next-line
+              plugins: () => [require("autoprefixer")]
+            }
+          },
           "sass-loader"
         ]
       },
@@ -55,6 +75,9 @@ const config = {
         "imports-loader?this=>global!exports-loader?global.fetch!whatwg-fetch"
     })
   ],
+  resolve: {
+    extensions: [".js", ".jsx"]
+  },
   watchOptions: {
     poll: true
   }

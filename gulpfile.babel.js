@@ -3,15 +3,10 @@ import {spawn} from "child_process";
 import hugoBin from "hugo-bin";
 import log from "fancy-log";
 import pluginError from "plugin-error";
-import postcss from "gulp-postcss";
-import sass from "gulp-sass";
-import postcssPresetEnv from "postcss-preset-env";
 import BrowserSync from "browser-sync";
 import webpack from "webpack";
-import webpackConfig from "./webpack.conf";
-import nodeSass from "node-sass";
-
-sass.compiler = nodeSass;
+import webpackDevConfig from "./webpack.conf";
+import webpackProdConfig from "./webpack.conf.prod";
 
 const browserSync = BrowserSync.create();
 
@@ -24,32 +19,22 @@ gulp.task("hugo", (cb) => buildSite(cb));
 gulp.task("hugo-preview", (cb) => buildSite(cb, hugoArgsPreview));
 
 // Run server tasks
-gulp.task("server", ["hugo", "css", "js"], (cb) => runServer(cb));
-gulp.task("server-preview", ["hugo-preview", "css", "js"], (cb) => runServer(cb, "hugo-preview"));
+gulp.task("server", ["hugo", "webpack"], (cb) => runServer(cb));
+gulp.task("server-preview", ["hugo-preview", "webpack"], (cb) => runServer(cb, "hugo-preview"));
+
+gulp.task("webpack", ["webpack"], (cb) => runServer(cb));
 
 // Build/production tasks
-gulp.task("build", ["css", "js"], (cb) => buildSite(cb, [], "production"));
-gulp.task("build-preview", ["css", "js"], (cb) => buildSite(cb, hugoArgsPreview, "production"));
+gulp.task("build", ["webpack"], (cb) => buildSite(cb, [], "production"));
+gulp.task("build-preview", ["webpack"], (cb) => buildSite(cb, hugoArgsPreview, "production"));
 
-// Compile CSS with PostCSS
-gulp.task("css", () => (
-  gulp.src("./src/scss/*.scss")
-    .pipe(sass().on("error", sass.logError))
-    .pipe(postcss([postcssPresetEnv()]))
-    .pipe(gulp.dest("./dist/css"))
-    .pipe(browserSync.stream())
-));
+// Compile Javascript, CSS
+gulp.task("webpack", (cb) => {
+  const config = Object.assign({}, process.env.NODE_ENV === "production" ? webpackProdConfig : webpackDevConfig);
 
-// Compile Javascript
-gulp.task("js", (cb) => {
-  const myConfig = Object.assign({}, webpackConfig);
-
-  webpack(myConfig, (err, stats) => {
+  webpack(config, (err, stats) => {
     if (err) throw new pluginError("webpack", err);
-    log(`[webpack] ${stats.toString({
-      colors: true,
-      progress: true
-    })}`);
+    log(`[webpack] ${stats.toString({colors: true, progress: true})}`);
     browserSync.reload();
     cb();
   });
@@ -62,8 +47,8 @@ function runServer(cb, hugoTask = "hugo") {
       baseDir: "./dist"
     }
   });
-  gulp.watch("./src/js/**/*.js", ["js"]);
-  gulp.watch("./src/scss/**/*.scss", ["css"]);
+  gulp.watch("./src/js/**/*.js", ["webpack"]);
+  gulp.watch("./src/scss/**/*.scss", ["webpack"]);
   gulp.watch("./site/**/*", [hugoTask]);
 }
 
