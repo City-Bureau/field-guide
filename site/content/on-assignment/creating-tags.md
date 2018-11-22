@@ -1,5 +1,10 @@
 ---
 title: Creating Tags
 ---
+Summary
 
-TK
+Requirements
+
+Tips
+
+Checklist
