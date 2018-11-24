@@ -1,6 +1,8 @@
 ---
 title: On Assignment
 order: 3
+aliases:
+    - /on-assignment/
 ---
 
 Use our Documenters Field Guide to brush up on your skills, learn new ones and get the most out of your Documenters assignments. The field guide is always available via desktop and mobile devices at fieldguide.documenters.org.
