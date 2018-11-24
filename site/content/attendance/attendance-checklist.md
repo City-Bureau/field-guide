@@ -1,8 +1,5 @@
 ---
 title: Attendance Checklist
-category: Attendance
-order: 4
-inmenu: true
 ---
 ## Do
 

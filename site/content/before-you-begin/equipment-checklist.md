@@ -1,8 +1,5 @@
 ---
 title: Equipment Checklist
-category: Before you begin
-order: 5
-inmenu: true
 ---
 
 - [ ] Pocket Field Guide

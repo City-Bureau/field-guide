@@ -1,8 +1,5 @@
 ---
 title: Illinois Governmental Flowchart
-category: Before you begin
-order: 1
-inmenu: true
 ---
 ![Governmental Flowchart](/img/flowchart.png)
 

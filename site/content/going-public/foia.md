@@ -1,8 +1,5 @@
 ---
 title: Freedom of Information Act Requests
-category: Going Public
-order: 1
-inmenu: true
 ---
 Known to many as “FOIA” (often pronounced “foy-ya”), the Freedom of Information Act is a powerful tool that is open to all members of the public. Since 1967, Freedom of Information Act requests have obtained records from federal agencies. It is often described as the law that keeps citizens in the know about their government. Federal agencies are required to disclose any information requested under the FOIA unless it falls under one of nine exemptions which protect interests such as personal privacy, national security, and law enforcement.
 
