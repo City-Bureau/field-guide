@@ -8,6 +8,30 @@ media_folder: "site/static/img"
 public_folder: "img"
 
 collections:
+  - name: categories
+    label: Categories
+    folder: site/content/categories
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Order", name: "order", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "page"
+    label: "Pages"
+    folder: "site/content/page"
+    create: true
+    fields:
+      - {label: Title, name: title, widget: string}
+      - label: Category
+        name: category
+        widget: relation
+        collection: categories
+        searchFields: ["title"]
+        valueField: title
+        displayFields: ["title"]
+      - {label: "Order", name: "order", widget: "number"}
+      - {label: "In Menu?", name: "inmenu", widget: "boolean"}
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "post"
     label: "Post"
     folder: "site/content/post"
@@ -17,41 +41,6 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Intro Blurb", name: "description", widget: "text"}
       - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
-  - name: "page"
-    label: "Pages"
-    folder: "site/content/page"
-    create: true
-    fields:
-      - {label: Title, name: title, widget: string}
-      - {label: "Body", name: "body", widget: "markdown"}
-  - name: "attendance"
-    label: "Attendance"
-    folder: "site/content/attendance"
-    create: true
-    fields:
-      - {label: Title, name: title, widget: string}
-      - {label: "Body", name: "body", widget: "markdown"}
-  - name: "before-you-begin"
-    label: "Before you begin"
-    folder: "site/content/before-you-begin"
-    create: true
-    fields:
-      - {label: Title, name: title, widget: string}
-      - {label: "Body", name: "body", widget: "markdown"}
-  - name: "on-assignment"
-    label: "On assignment"
-    folder: "site/content/on-assignment"
-    create: true
-    fields:
-      - {label: Title, name: title, widget: string}
-      - {label: "Body", name: "body", widget: "markdown"}
-  - name: "going-public"
-    label: "Going public"
-    folder: "site/content/going-public"
-    create: true
-    fields:
-      - {label: Title, name: title, widget: string}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "main"
     label: "Main"

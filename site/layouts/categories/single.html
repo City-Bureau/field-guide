@@ -1,0 +1,17 @@
+{{ define "main" -}}
+<article>
+  <div class="post">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+    <ul class="posts">
+      {{ range (where .Site.Pages "Params.category" .Title) -}}
+      <li>
+        <span>
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </span>
+      </li>
+      {{- end }}
+    </ul>
+  </div>
+</article>
+{{- end }}

@@ -8,22 +8,23 @@
     <div>
       <ul class="menu-list">
         {{ $page := . }}
-        {{ range .Site.Menus.main -}}
+        {{ range sort (where .Site.RegularPages "Section" "categories") ".Params.order" -}}
+        {{ $children := where (where .Site.RegularPages "Params.category" .Params.title) ".Params.inmenu" true }}
         <li>
           <a
-            {{if or ($page.IsMenuCurrent "main" .) (hasPrefix $page.URL .URL)}}
+            {{if or (eq $page.URL .URL) (eq $page.Params.category .Params.title)}}
             class="active toggle"
             {{else}}
             class="toggle"
             {{end}}
-            {{if .HasChildren}}
+            {{if gt (len $children) 0 }}
             {{else}}
             href="{{.URL}}"
             {{end}}
           >{{ .Name }}</a>
-          {{if .HasChildren }}
+          {{if gt (len $children) 0 }}
           <ul>
-            {{ range .Children }}
+            {{ range sort $children ".Params.order" }}
             <li>
               <a
                 {{if eq $page.URL .URL }}

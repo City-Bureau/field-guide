@@ -1,5 +1,8 @@
 ---
 title: Mobile Audio Recording
+category: On Assignment
+order: 6
+inmenu: true
 ---
 Missed that important quote or phone number? Consider using your phone as an audio recording device during board meetings and interviews. Having a clear audio recording can save time and ensure accuracy by providing a verbatim record.
 
@@ -12,9 +15,8 @@ Missed that important quote or phone number? Consider using your phone as an aud
 
 1. **Find a quiet place:** Inaudible sounds to the human ear can still be picked up by your mobile device. Record in an empty room, hallway or other quiet location when possible.
 2. **Get Close:** Position your recording device receiver within a few inches of your subject’s mouth or a speaker for the best audio.
-3. ****
-4. **Watch the dial: **
-5. **Ambiance:** Record snippets of “natural sound” along with interviews and audio from speakers. These natural sound elements can be used to edit and correct audio when producing stand-alone clips.
+3. **Watch the dial:**
+4. **Ambiance:** Record snippets of “natural sound” along with interviews and audio from speakers. These natural sound elements can be used to edit and correct audio when producing stand-alone clips.
 
 ## Checklist
 

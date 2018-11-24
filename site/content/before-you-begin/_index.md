@@ -1,3 +1,0 @@
----
-title: "Before You Begin"
----
