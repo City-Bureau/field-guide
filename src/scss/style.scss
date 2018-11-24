@@ -196,11 +196,6 @@ main.content {
     &:hover {
       background-color: transparent;
       color: $red;
-
-      &::after {
-        content: '';
-        background-color: $grayLight3;
-      }
     }
   }
 
@@ -228,6 +223,16 @@ main.content {
 
   & > li > a {
     text-transform: uppercase;
+  }
+}
+
+
+@media screen and (min-width: $tablet) {
+  .menu-list a:hover {
+    &::after {
+      content: '';
+      background-color: $grayLight3;
+    }
   }
 }
 
