@@ -31,6 +31,8 @@ collections:
     create: true
     fields:
       - {label: Title, name: title, widget: string}
+      - {label: Order, name: order, widget: number}
+      - {label: "In Menu?", name: inmenu, widget: boolean}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "before-you-begin"
     label: "Before you begin"
@@ -38,6 +40,8 @@ collections:
     create: true
     fields:
       - {label: Title, name: title, widget: string}
+      - {label: Order, name: order, widget: number}
+      - {label: "In Menu?", name: inmenu, widget: boolean}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "on-assignment"
     label: "On assignment"
@@ -45,6 +49,8 @@ collections:
     create: true
     fields:
       - {label: Title, name: title, widget: string}
+      - {label: Order, name: order, widget: number}
+      - {label: "In Menu?", name: inmenu, widget: boolean}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "going-public"
     label: "Going public"
@@ -52,6 +58,8 @@ collections:
     create: true
     fields:
       - {label: Title, name: title, widget: string}
+      - {label: Order, name: order, widget: number}
+      - {label: "In Menu?", name: inmenu, widget: boolean}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "main"
     label: "Main"

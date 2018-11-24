@@ -1,5 +1,7 @@
 ---
 title: Finding Your Representative
+order: 2
+inmenu: true
 ---
 ## Chicago City Council
 

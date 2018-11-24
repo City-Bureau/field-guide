@@ -1,5 +1,7 @@
 ---
 title: Attendance Checklist
+order: 4
+inmenu: true
 ---
 ## Do
 

@@ -1,5 +1,7 @@
 ---
 title: Live-tweeting
+order: 4
+inmenu: true
 ---
 Social media is a great way to have your voice heard, inform your community and connect with engaged global citizens. Twitter is a good place to start in addition to platforms such as Facebook, Instagram, and Snapchat. 
 
@@ -46,12 +48,12 @@ Note: All Documenters live-tweeting assignments must be tweeted in a single "thr
 
 ## Checklist
 
-* Create a Twitter account if you don’t have one
-* Call ahead to check for available wi-fi connection
-* Search and use popular or common hashtags related to the meeting, department or issue
-* Send multiple tweets via a single “thread”
-* Check your notifications for replies and responses
-* When possible, refer to people and organizations directly by using the @ function
-* Tweet video and/or photos of the meeting along with your posted text
-* See the Meeting Notes Checklist for content recommendations (see [Notetaking checklist](/on-assignment/notetaking/#checklist) for more details)
-* Follow local officials and attendees for future updates and communication
+- [ ] Create a Twitter account if you don’t have one
+- [ ] Call ahead to check for available wi-fi connection
+- [ ] Search and use popular or common hashtags related to the meeting, department or issue
+- [ ] Send multiple tweets via a single “thread”
+- [ ] Check your notifications for replies and responses
+- [ ] When possible, refer to people and organizations directly by using the @ function
+- [ ] Tweet video and/or photos of the meeting along with your posted text
+- [ ] See the Meeting Notes Checklist for content recommendations (see [Notetaking checklist](/on-assignment/notetaking/#checklist) for more details)
+- [ ] Follow local officials and attendees for future updates and communication

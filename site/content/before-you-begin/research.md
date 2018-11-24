@@ -1,5 +1,7 @@
 ---
 title: Pre-research
+order: 4
+inmenu: true
 ---
 If you’ve selected your meeting or area of interest, be sure to study up before you attend.
 

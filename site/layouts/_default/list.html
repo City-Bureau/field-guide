@@ -4,7 +4,7 @@
     <h1>{{ .Title }}</h1>
     {{ .Content }}
     <ul class="posts">
-      {{ range .Data.Pages -}}
+      {{ range sort (.Data.Pages) ".Params.order" -}}
       <li>
         <span>
           <a href="{{ .Permalink }}">{{ .Title }}</a>

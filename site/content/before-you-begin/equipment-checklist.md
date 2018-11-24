@@ -1,5 +1,7 @@
 ---
 title: Equipment Checklist
+order: 5
+inmenu: true
 ---
 
 - [ ] Pocket Field Guide

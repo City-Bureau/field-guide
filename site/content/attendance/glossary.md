@@ -1,5 +1,7 @@
 ---
 title: Glossary of Terms
+order: 5
+inmenu: true
 ---
 * **Adjourn**: to hold a meeting over until a later date.
 * **Agenda**: a schedule of items drawn up for discussion at a meeting
