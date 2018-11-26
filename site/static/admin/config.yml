@@ -2,7 +2,7 @@ backend:
   name: github
   repo: City-Bureau/field-guide
 
-publish_mode: editorial_workflow
+# publish_mode: editorial_workflow
 
 media_folder: "site/static/img"
 public_folder: "img"
@@ -25,15 +25,6 @@ collections:
     fields:
       - {label: Title, name: title, widget: string}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "attendance"
-    label: "Attendance"
-    folder: "site/content/attendance"
-    create: true
-    fields:
-      - {label: Title, name: title, widget: string}
-      - {label: Order, name: order, widget: number}
-      - {label: "In Menu?", name: inmenu, widget: boolean}
-      - {label: "Body", name: "body", widget: "markdown"}
   - name: "before-you-begin"
     label: "Before you begin"
     folder: "site/content/before-you-begin"
@@ -55,6 +46,15 @@ collections:
   - name: "going-public"
     label: "Going public"
     folder: "site/content/going-public"
+    create: true
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: Order, name: order, widget: number}
+      - {label: "In Menu?", name: inmenu, widget: boolean}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "resources"
+    label: "Resources"
+    folder: "site/content/resources"
     create: true
     fields:
       - {label: Title, name: title, widget: string}
