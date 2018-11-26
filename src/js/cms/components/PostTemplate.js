@@ -8,7 +8,7 @@ export default class PostTemplate extends Component {
       <main className="content">
         <article>
           <h1>
-            {entry.getIn("data", "title")}
+            {entry.getIn(["data", "title"])}
           </h1>
           <div>
             {widgetFor("body")}
