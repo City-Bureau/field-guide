@@ -1,5 +1,5 @@
 ---
-title: Going Public
+title: Frequently Asked Questions
 order: '1'
 inmenu: true
 ---
@@ -27,7 +27,7 @@ To update your application:
 
 ## When I click on an assignment, there isn’t any way to apply for it. How do I apply?
 
-**Answer: **
+**Answer:**
 
 
 
@@ -43,7 +43,7 @@ If you do not see your initials in the upper right corner of the screen, click o
 
 ## WHEN I CLICK ON THE EMAIL LINK TO HTTPS://BETA.DOCUMENTERS.ORG ON MY PHONE, I GET A “BAD TOKEN” MESSAGE. HOW DO I GET AROUND THIS?
 
-**Answer: **
+**Answer:**
 
 
 
@@ -57,7 +57,7 @@ Opening the link from a desktop or laptop computer should also fix this issue.
 
 ## HOW CAN I PREPARE FOR MY ASSIGNMENT?
 
-**Answer: **
+**Answer:**
 
 
 
@@ -71,7 +71,7 @@ Clicking on “View original meeting details” or “View source” will take y
 
 ## HOW DO I SUBMIT MY NOTES OR TWITTER THREAD AFTER ATTENDING A MEETING?
 
-**Answer: **
+**Answer:**
 
 
 

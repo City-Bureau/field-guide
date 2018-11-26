@@ -29,7 +29,7 @@ Each year county and city officials spend hundreds of hours voting in public mee
 
 ## Departmental budgets
 
-Cities across the country have been making their budgets more transparent by creating online data portals and posting spending data online. In the best case scenario, budget information is clearly marked on official city and county hubs. In the unlikely case that your local municipality does not make budgetary information publicly available, you may file a Freedom of Information Act request (see more info in [Freedom of Information Act Requests](/going-public/foia/)).
+Cities across the country have been making their budgets more transparent by creating online data portals and posting spending data online. In the best case scenario, budget information is clearly marked on official city and county hubs. In the unlikely case that your local municipality does not make budgetary information publicly available, you may file a Freedom of Information Act request (see more info in [Freedom of Information Act Requests](/resources/freedom-of-information-act-requests/)).
 
 ## Tips
 

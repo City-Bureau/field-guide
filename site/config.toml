@@ -21,9 +21,9 @@ enableRobotsTXT = true
     url = "/on-assignment/"
     weight = 2
   [[menu.main]]
-    identifier = "going-public"
-    name = "Going Public"
-    url = "/going-public/"
+    identifier = "frequently-asked-questions"
+    name = "Frequently Asked Questions"
+    url = "/frequently-asked-questions/"
     weight = 3
   [[menu.main]]
     identifier = "resources"

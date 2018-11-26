@@ -43,9 +43,9 @@ collections:
       - {label: Order, name: order, widget: number}
       - {label: "In Menu?", name: inmenu, widget: boolean}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "going-public"
-    label: "Going public"
-    folder: "site/content/going-public"
+  - name: "frequently-asked-questions"
+    label: "Frequently Asked Questions"
+    folder: "site/content/frequently-asked-questions"
     create: true
     fields:
       - {label: Title, name: title, widget: string}
@@ -62,12 +62,11 @@ collections:
       - {label: "In Menu?", name: inmenu, widget: boolean}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "main"
-    label: "Main"
+    label: "Intro"
     files:
       - file: "site/content/_index.md"
         label: "Home Page"
         name: "home"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Subtitle, name: subtitle, widget: string}
-          - {label: Image, name: image, widget: image}
+          - {label: "Body", name: "body", widget: "markdown"}
