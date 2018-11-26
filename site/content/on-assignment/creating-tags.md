@@ -17,7 +17,7 @@ Tags are the keywords in your document. Tags can be:
 
 Separate all tags with commas. Tagged words must appear in your notes or be closely related to words in your notes. When in doubt, add a tag. Please include 5-10 tags below.
 
-## Requirements
+## Assignment Requirements
 
 * Include 5-10 unabbreviated tags in your meeting survey using the formats above.
 
