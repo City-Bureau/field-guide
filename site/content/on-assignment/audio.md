@@ -3,29 +3,48 @@ title: Mobile Audio Recording
 order: 6
 inmenu: true
 ---
-Missed that important quote or phone number? Consider using your phone as an audio recording device during board meetings and interviews. Having a clear audio recording can save time and ensure accuracy by providing a verbatim record.
+Missed that important quote or phone number? Having a clear audio recording can save time and ensure accuracy by providing a verbatim record. We use audio recordings to share that verbatim record with the public and draft contextualized reports, drawing connections between meetings, board members and public speakers.
 
-## Requirements
 
-* **Record in a Single Segment:**
-* **Timestamp Your Audio:** Write down key times displayed on your audio device as you record. By the end of your recording, you’ll have a written log that will allow you and our Documenters Manager to find important moments in your audio.
 
-## Tips
+## ASSIGNMENT REQUIREMENTS
 
-1. **Find a quiet place:** Inaudible sounds to the human ear can still be picked up by your mobile device. Record in an empty room, hallway or other quiet location when possible.
-2. **Get Close:** Position your recording device receiver within a few inches of your subject’s mouth or a speaker for the best audio.
-3. **Watch the dial:**
-4. **Ambiance:** Record snippets of “natural sound” along with interviews and audio from speakers. These natural sound elements can be used to edit and correct audio when producing stand-alone clips.
+* **Record in a Single Segment:** Record you assigned meeting in one single file or as few clips as possible. 
+* **Timestamp:** Write down key times displayed on your audio device as you record. By the end of your recording, you’ll have a written log that will allow you and our Documenters Manager to quickly find important moments in your audio.
 
-## Checklist
 
-* Charge your device
-* Silence your device before recording
-* Test audio levels
-* Position your recording device receiver close to your subject  
-* Record in a quiet location’
-* Record subjects spelling their full names and contact information
-* Timestamp audio in your notes
-* Record in increments
-* Save audio files using name/title and date
-* **Recommended**: use an external, plug-in microphone
+
+## TIPS
+
+1. **Get Close:** Position your recording device receiver within a few inches of your subject’s mouth or a speaker/amplifier for the best audio.
+2. **Find a stable surface:** When possible, don’t hold your recording device in your hand—look for a stable surface on the same level as your audio subject.
+3. **Check your levels:** If your recording device features a display be sure to watch the dial. For wave height, taller waves mean louder sound; for wave color, red means your audio is too loud. The ideal display settings will show a moderate wave height with green bars.
+4. **Remember:** you have the right to record any public meeting that qualifies under the Open Meetings Act.
+
+
+
+## CHECKLIST
+
+- [ ] Charge your device
+
+- [ ] Silence your device before recording
+
+- [ ] Test audio levels
+
+- [ ] Position your recording device receiver close to your subject
+
+- [ ] Record in a quiet location’
+
+- [ ] Record subjects spelling their full names and contact information
+
+- [ ] Timestamp audio in your notes
+
+- [ ] Save audio files using name/title and date
+
+- [ ] Recommended: use an external, plug-in microphone
+
+
+
+## ON ASSIGNMENT NOW?
+
+Call or text 708-820-2154 any time with any questions or concerns. For any non-immediate needs email us directly at documenters@citybureau.org.
