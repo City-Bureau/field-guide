@@ -3,7 +3,7 @@ title: Documenters Intro
 ---
 Public meetings are important spaces for democracy, where any resident can participate in civic life and hold public figures accountable. But how does the public know when meetings are happening? It isn’t easy! These events are spread across dozens of websites, rarely in useful data formats.
 
-That’s why City Bureau is working with a network of community organizations, governmental agencies, civic coders and engaged Chicagoans like you on the Documenters Program and City Scrapers Project, a Chicago-based open source community designed to standardize, scrape and share these meetings in a central database. 
+That’s why City Bureau is working with a network of community organizations, governmental agencies, civic coders and engaged Chicagoans like you on the Documenters Program.
 
 Documenters are citizens and civic actors; creators and collaborators; representing a broad base of intergenerational, diverse communities. City Bureau recruits, trains and pays this group of highly engaged citizens to participate in the newsgathering process and contribute to a communal pool of knowledge. Together we're democratizing news & information at the local level and reinvigorating notions of citizenship by using journalism to equip storytellers; employing civic tech to illuminate civic processes; distributing democratized trainings to provide structure around journalistic production; and instituting an hourly wage to value each citizen’s time and efforts. 
 
@@ -21,10 +21,10 @@ Our Documenters program is a critical component in City Bureau’s mission to br
 
 ## Our Values
 
-**Collaboration:** documenters work together for the public good, in the public interest.
+**Collaboration:** Documenters work together for the public good, in the public interest.
 
-**Intergenerational learning:** documenters of all ages receive training on a range of disaggregated journalistic skills to inform the public by building a new public record.
+**Intergenerational learning:** Documenters of all ages receive training on a range of disaggregated journalistic skills to inform the public by building a new public record.
 
-**Civic engagement:** documenters identify, address and share issues of local concern.
+**Civic engagement:** Documenters identify, address and share issues of local concern.
 
-**Journalistic self-expression:** documenters create space for the expression of experiences, action and ideas through storytelling, media and journalism.
+**Journalistic self-expression:** Documenters create space for the expression of experiences, action and ideas through storytelling, media and journalism.
