@@ -33,8 +33,6 @@ Good notetaking is the most essential skill for good documentation. We’ve list
 
 ## SAMPLE MEETING NOTES TEMPLATE
 
-Link to uneditable notes template
-
 <iframe width=100% height=600 src="https://docs.google.com/document/d/e/2PACX-1vT46nkmOuA_s46GMBjk8kRQDIYvSu9XaNxa83go_JbXWoGAw45kjlflIDwn4AM_f2E6yO3Q3wV7cdJk/pub?embedded=true"></iframe>
 
 
