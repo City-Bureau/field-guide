@@ -1,7 +1,7 @@
 ---
 title: >-
-  Q: When I click on an assignment, there isn’t any way to apply for it. How do
-  I apply?
+  When I click on an assignment, there isn’t any way to apply for it. How do I
+  apply?
 order: '2'
 inmenu: true
 ---
