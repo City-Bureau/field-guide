@@ -21,13 +21,13 @@ When it comes to documentation, text is better with images. Be sure to take vide
 
 ## CHECKLIST
 
-* Charge your device
-* Check storage space
-* Familiarize yourself with the controls on your device
-* Be aware of light and dark spaces
-* Shoot horizontally
-* Vary your perspective
-* Remember the rule of thirds:
+- [ ] Charge your device
+- [ ] Check storage space
+- [ ] Familiarize yourself with the controls on your device
+- [ ] Be aware of light and dark spaces
+- [ ] Shoot horizontally
+- [ ] Vary your perspective
+- [ ] Remember the rule of thirds:
 
 
 
