@@ -1,6 +1,6 @@
 ---
 title: Web Research
-order: '4'
+order: '6'
 inmenu: true
 ---
 Accurate news articles, academic research, meeting agendas and related governmental websites can add context and background to your documentation. 
@@ -33,11 +33,11 @@ Cities across the country have been making their budgets more transparent by cre
 
 ## Tips
 
-* Find your municipality’s official website
-* Use quote marks (“ “) to locate a specific phrase verbatim (i.e. “Mark Murray” voting history)
-* Use the minus sign (-) to remove results from your search (i.e. “Chicago crime -violence”)
-* Use CTRL +F to find a specific word or phrase on a webpage
-* Use “wildcard search” characters like asterisks (\*) and question marks (?) to widen your searches (i.e. search results for “educat\*” will include educate, educated, education, educational or educator)
-* Use multiple search engines
-* Review quality news content related to your topic (quality news outlets will have a track record of excellence, and a quality story will often feature a byline, links to source materials, multiple sources and good spelling/grammar)
-* Taking notes? Copy/paste or hyperlink relevant webpages for reference
+1. Find your municipality’s official website
+2. Use quote marks (“ “) to locate a specific phrase verbatim (i.e. “Mark Murray” voting history)
+3. Use the minus sign (-) to remove results from your search (i.e. “Chicago crime -violence”)
+4. Use CTRL +F to find a specific word or phrase on a webpage
+5. Use “wildcard search” characters like asterisks (\*) and question marks (?) to widen your searches (i.e. search results for “educat\*” will include educate, educated, education, educational or educator)
+6. Use multiple search engines
+7. Review quality news content related to your topic (quality news outlets will have a track record of excellence, and a quality story will often feature a byline, links to source materials, multiple sources and good spelling/grammar)
+8. Taking notes? Copy/paste or hyperlink relevant webpages for reference
