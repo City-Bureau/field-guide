@@ -1,7 +1,7 @@
 ---
 title: >-
-  Q: I’ve already completed my application. Why am I getting this reminder that
-  I need to update it? 
+  I’ve already completed my application. Why am I getting this reminder that I
+  need to update it? 
 order: '1'
 inmenu: true
 ---
