@@ -195,6 +195,23 @@ main.content {
         content: '';
       }
     }
+
+    &.toggle {
+      &::after {
+        content: '+\fe0e';
+        border: unset;
+        background-color: unset;
+        top: unset;
+        box-shadow: unset;
+        text-align: center;
+      }
+
+      &.active {
+        &::after {
+          content: '-\fe0e';
+        }
+      }
+    }
     
     &:hover {
       background-color: transparent;
@@ -210,11 +227,7 @@ main.content {
         font-size: 14px;
 
         a {
-          padding: 0;
-        }
-
-        &:not(:last-child) {
-          margin-bottom: 0.75em;
+          padding: 0.35em 0;
         }
       } 
     }
@@ -232,7 +245,7 @@ main.content {
 
 @media screen and (min-width: $tablet) {
   .menu-list a:hover {
-    &::after {
+    &:not(.toggle)::after {
       content: '';
       background-color: $grayLight3;
     }

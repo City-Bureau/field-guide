@@ -12,18 +12,18 @@
         {{ range .Site.Menus.main -}}
         {{ $children := where (where $site.RegularPages ".Section" .Identifier) ".Params.inmenu" true }}
         <li>
+          {{ $toggleClass := cond (gt (len $children) 0) "toggle" "" }}
           <a
-            {{if eq $page.URL .URL}}
-            class="is-page active toggle"
-            {{else if hasPrefix $page.URL .URL}}
-            class="active toggle"
-            {{else}}
-            class="toggle"
-            {{end}}
-            {{if gt (len $children) 0 }}
-            {{else}}
+            {{ if eq $page.URL .URL }}
+            class="is-page active {{ $toggleClass }}"
+            {{ else if hasPrefix $page.URL .URL }}
+            class="active {{ $toggleClass }}"
+            {{ else }}
+            class="{{ $toggleClass }}"
+            {{ end }}
+            {{ if eq (len $children) 0 }}
             href="{{.URL}}"
-            {{end}}
+            {{ end }}
           >{{ .Name }}</a>
           {{if gt (len $children) 0 }}
           <ul>
