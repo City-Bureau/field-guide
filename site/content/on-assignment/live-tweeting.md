@@ -17,7 +17,7 @@ Note: All Documenters live-tweeting assignments must be tweeted in a single "thr
 
 ## 
 
-## TIPS FOR TWITTER
+## TIPS 
 
 1. **Get the basics:** Include information like the meeting start time, the number of people at the event (not including city officials) and the reasons why the meeting is being held.
 2. **Get the details:** List names of presenters at the meeting (include titles, affiliations and twitter handles, if applicable, and any stated goals of the meeting. When possible include solutions and next steps presented.
@@ -34,27 +34,21 @@ Note: All Documenters live-tweeting assignments must be tweeted in a single "thr
 
 ![](/img/field-guide-live-tweet2.png)
 
-
-
 > **Then:**
 
 ![](/img/field-guide-live-tweet1.png)
 
-
-
 ## CHECKLIST
 
-- [ ] Create a Twitter account if you don’t have one
-- [ ] Call ahead to check for available wi-fi connection
-- [ ] Search and use popular or common hashtags related to the meeting, department or issue
-- [ ] Send multiple tweets via a single “thread”
-- [ ] Check your notifications for replies and responses
-- [ ] When possible, refer to people and organizations directly by using the @ function
-- [ ] Tweet video and/or photos of the meeting along with your posted text
-- [ ] See the Meeting Notes Guide for more content recommendations
-- [ ] Follow local officials and attendees for future updates and communication
-
-
+* Create a Twitter account if you don’t have one
+* Call ahead to check for available wi-fi connection
+* Search and use popular or common hashtags related to the meeting, department or issue
+* Send multiple tweets via a single “thread”
+* Check your notifications for replies and responses
+* When possible, refer to people and organizations directly by using the @ function
+* Tweet video and/or photos of the meeting along with your posted text
+* See the Meeting Notes Guide for more content recommendations
+* Follow local officials and attendees for future updates and communication
 
 ## ON ASSIGNMENT NOW?
 
