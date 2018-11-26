@@ -5,9 +5,11 @@ title: >-
 order: '1'
 inmenu: true
 ---
-A: We’ve added a short skills survey to complete you are eligible to apply for assignments on the new app. To update your application:
+**Answer:**
 
-1.  Log in to https://beta.documenters.org.
+We’ve added a short skills survey to complete you are eligible to apply for assignments on the new app. To update your application:
+
+1. Log in to https://beta.documenters.org.
 2. Click on your initials in the upper right hand corner.
 3. Click on "Profile."
 4. Click on "Edit application."
