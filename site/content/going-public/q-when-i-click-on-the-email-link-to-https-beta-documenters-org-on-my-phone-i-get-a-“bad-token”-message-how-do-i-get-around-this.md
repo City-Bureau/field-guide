@@ -1,7 +1,7 @@
 ---
 title: >-
-  Q: When I click on the email link to https://beta.documenters.org on my phone,
-  I get a “bad token” message. How do I get around this?
+  When I click on the email link to https://beta.documenters.org on my phone, I
+  get a “bad token” message. How do I get around this?
 order: '3'
 inmenu: true
 ---
