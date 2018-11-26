@@ -1,5 +1,5 @@
 ---
-title: 'Q: How do I submit my notes or twitter thread after attending a meeting?'
+title: How do I submit my notes or twitter thread after attending a meeting?
 order: '5'
 inmenu: true
 ---
