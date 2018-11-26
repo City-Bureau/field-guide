@@ -7,7 +7,9 @@ inmenu: true
 ---
 **Answer:**
 
-We’ve added a short skills survey to complete you are eligible to apply for assignments on the new app. To update your application:
+We’ve added a brief skills survey to help our staff better track growth, gaps and needs with the Documenters Program. If you filled out a Documenters application before October 2018, you'll need and fill out this short survey in order to complete your eligibility. The survey will be included in the Documenters Program application for all applicants after October 2018.
+
+To update your application:
 
 1. Log in to https://beta.documenters.org.
 2. Click on your initials in the upper right hand corner.
