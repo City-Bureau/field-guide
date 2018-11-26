@@ -1,5 +1,5 @@
 ---
-title: 'Q: How can I prepare for my assignment?'
+title: How can I prepare for my assignment?
 order: '4'
 inmenu: true
 ---
