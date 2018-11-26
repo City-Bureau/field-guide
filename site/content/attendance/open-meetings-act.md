@@ -1,5 +1,5 @@
 ---
-title: Open Meetings Act
+title: The Open Meetings Act
 order: 1
 inmenu: true
 ---
