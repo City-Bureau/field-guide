@@ -13,11 +13,11 @@ When it comes to documentation, text is better with images. Be sure to take vide
 
 ## TIPS
 
-1. **Find a steady support: **Make use of a tripod, tree stump, banister, shelf or nearby railing for stability.
+1. **Find a steady support:** Make use of a tripod, tree stump, banister, shelf or nearby railing for stability.
 2. **Find the light:** Head toward the nearest light source for the clearest image. When outdoors, keep the sun at your back to avoid backlighting your subject.
 3. **Frame it:** Vary your perspective but always shoot horizontally. Take wide shots by stepping back and close-ups by filling the frame. Use the rule of thirds as a guide by placing points of interest along the four main intersections (see the Rule of Thirds diagram below).
 4. **Change your focus:** Tap your mobile screen to change the focus of your shot and its exposure.
-5. **Avoid zoom: **Zooming often leads to pixelation. Instead, move closer to your subject when possible.
+5. **Avoid zoom:** Zooming often leads to pixelation. Instead, move closer to your subject when possible.
 
 ## CHECKLIST
 

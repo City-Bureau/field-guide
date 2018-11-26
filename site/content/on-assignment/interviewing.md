@@ -12,7 +12,7 @@ Check in with a Documenters Manager for requirements on this role.
 ## TIPS
 
 1. **Pre-interview:** Jot down questions before you conduct an interview. The list can be short or long, simple or complex. Interviewing a public figure? Read previous interviews your subject has given to push the dialogue further.
-2. **Introduce yourself: **Tell your subjects who you are and how their interview responses will be used.
+2. **Introduce yourself:** Tell your subjects who you are and how their interview responses will be used.
 3. **Ask what you don't know:** Avoid “gotcha” questions. Ask questions that deserve answers. Chances are, someone else is wondering the same thing.
 4. **Open and closed questions:** Closed-ended questions result in “yes” or “no” answers. Open-ended questions are designed to get more than one-word answers. Good interviews feature a mix of both. And don’t hesitate to follow up with an additional question if the response isn’t clear or sufficient.
 5. **Perspectives:** Interview people with a variety of points of view—a range of voices will help ensure you understand your topic, and raise new avenues of inquiry.

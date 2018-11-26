@@ -14,9 +14,9 @@ Good notetaking is the most essential skill for good documentation. We’ve list
 
 1. **Read the documentation:** Prepare for your assignment by reading any meeting minutes, agendas, transcripts and other documentation associated with your meeting.
 2. **Create a system:** It’s ok to stick to keywords, phrases and short sentences to maximize the number of points you record during you assigned meeting (you can always add later). Raw notes can be used to create a more thorough submission.
-3. **Listen and learn: **Make a conscious effort to pay attention during your assignment. Concentrate on being accurate and hearing different perspectives. 
+3. **Listen and learn:** Make a conscious effort to pay attention during your assignment. Concentrate on being accurate and hearing different perspectives. 
 4. **Make connections:** Notetaking by hand? Weave blank space throughout your notes to backfill with comments, questions and connections that arise throughout meeting. Typing? Use functions like bold and underlined text to group similar sections.
-5. **Review and edit: **Following the meeting, make sure your writing is legible, any scribbles are clarified and all your “i”s are dotted following the meeting. But don’t wait too long between writing and review. Useful details may fade from your memory over time.
+5. **Review and edit:** Following the meeting, make sure your writing is legible, any scribbles are clarified and all your “i”s are dotted following the meeting. But don’t wait too long between writing and review. Useful details may fade from your memory over time.
 
 ## CHECKLIST
 
