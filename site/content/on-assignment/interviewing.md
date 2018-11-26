@@ -1,6 +1,6 @@
 ---
 title: Interviewing
-order: 2
+order: '3'
 inmenu: true
 ---
 Paired with good notetaking, great interviewing skills can mean the difference between a decent comment and a bombshell quote. We’ve outlined some tips to get you started but there’s really no substitute for going out there and doing it—practice makes perfect. Above all, be prepared, be engaged and be present! The best interviewers are those who are interested in their subjects.
