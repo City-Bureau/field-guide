@@ -1,6 +1,6 @@
 ---
 title: Equipment Checklist
-order: 5
+order: '3'
 inmenu: true
 ---
 
