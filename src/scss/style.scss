@@ -181,15 +181,18 @@ main.content {
       display: none;
     }
 
-    &.active {
+    &.active,
+    &.is-page {
       color: $black;
-
-      &::after {
-        content: '';
-      }
 
       & + ul {
         display: inherit;
+      }
+    }
+
+    &.is-page {
+      &::after {
+        content: '';
       }
     }
     

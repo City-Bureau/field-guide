@@ -13,7 +13,9 @@
         {{ $children := where (where $site.RegularPages ".Section" .Identifier) ".Params.inmenu" true }}
         <li>
           <a
-            {{if or (eq $page.URL .URL) (hasPrefix $page.URL .URL)}}
+            {{if eq $page.URL .URL}}
+            class="is-page active toggle"
+            {{else if hasPrefix $page.URL .URL}}
             class="active toggle"
             {{else}}
             class="toggle"
@@ -29,7 +31,7 @@
             <li>
               <a
                 {{if eq $page.URL .URL }}
-                class="active"
+                class="is-page"
                 {{end}}
                 href="{{ .URL }}"
               >{{ .Name }}</a>

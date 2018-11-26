@@ -16,25 +16,20 @@ enableRobotsTXT = true
     url = "/before-you-begin/"
     weight = 1
   [[menu.main]]
-    identifier = "attendance"
-    name = "Attendance"
-    url = "/attendance/"
-    weight = 2
-  [[menu.main]]
     identifier = "on-assignment"
     name = "On assignment"
     url = "/on-assignment/"
-    weight = 3
+    weight = 2
   [[menu.main]]
     identifier = "going-public"
     name = "Going Public"
     url = "/going-public/"
-    weight = 4
+    weight = 3
   [[menu.main]]
-    name = "Freedom of Information Act Requests"
-    parent = "going-public"
-    url = "/going-public/foia/"
-    weight = 20
+    identifier = "resources"
+    name = "Resources"
+    url = "/resources/"
+    weight = 4
   
 
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
