@@ -1,5 +1,5 @@
 ---
-title: Mobile Photography and Video Recording
+title: Mobile Photography and Video
 order: '4'
 inmenu: true
 ---
