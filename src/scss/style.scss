@@ -312,14 +312,14 @@ article {
 
 .task-list {
   label {
-    display: flex;
+    display: inline-block;
   }
 }
 
 input[type=checkbox] {
   -webkit-appearance: none;
   -moz-appearance: none;
-  width: grid(3);
+  min-width: grid(3);
   height: grid(3);
   background-color: $white;
   border: $defaultBorder;
@@ -327,6 +327,7 @@ input[type=checkbox] {
   border-radius: grid(0.25);
   box-shadow: none;
   position: relative;
+  vertical-align: bottom;
 
   &:checked::after {
     content: '\2714\fe0e';
