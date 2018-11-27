@@ -3,9 +3,9 @@ title: Live-tweeting
 order: '2'
 inmenu: true
 ---
-Social media is a great way to have your voice heard, inform your community and connect with engaged global citizens. Twitter is a good place to start in addition to platforms such as Facebook, Instagram, and Snapchat.
-
-Note: All Documenters live-tweeting assignments must be tweeted in a single "thread"—see further instructions on threading below.
+> Social media is a great way to have your voice heard, inform your community and connect with engaged global citizens. Twitter is a good place to start in addition to platforms such as Facebook, Instagram, and Snapchat.
+>
+> Note: All Documenters live-tweeting assignments must be tweeted in a single "thread"—see further instructions on threading below.
 
 ## ASSIGNMENT REQUIREMENTS
 
@@ -17,7 +17,7 @@ Note: All Documenters live-tweeting assignments must be tweeted in a single "thr
 
 ## 
 
-## TIPS FOR TWITTER
+## TIPS 
 
 1. **Get the basics:** Include information like the meeting start time, the number of people at the event (not including city officials) and the reasons why the meeting is being held.
 2. **Get the details:** List names of presenters at the meeting (include titles, affiliations and twitter handles, if applicable, and any stated goals of the meeting. When possible include solutions and next steps presented.
@@ -34,13 +34,9 @@ Note: All Documenters live-tweeting assignments must be tweeted in a single "thr
 
 ![](/img/field-guide-live-tweet2.png)
 
-
-
 > **Then:**
 
 ![](/img/field-guide-live-tweet1.png)
-
-
 
 ## CHECKLIST
 
@@ -53,8 +49,6 @@ Note: All Documenters live-tweeting assignments must be tweeted in a single "thr
 - [ ] Tweet video and/or photos of the meeting along with your posted text
 - [ ] See the Meeting Notes Guide for more content recommendations
 - [ ] Follow local officials and attendees for future updates and communication
-
-
 
 ## ON ASSIGNMENT NOW?
 

@@ -1,9 +1,9 @@
 ---
-title: Mobile Photography and Video Recording
+title: Mobile Photography and Video
 order: '4'
 inmenu: true
 ---
-When it comes to documentation, text is better with images. Be sure to take video and/or photos of your meeting to add context and color to your notes, social media or newsletter.
+> When it comes to documentation, text is better with images. Be sure to take video and/or photos of your meeting to add context and color to your notes, social media or newsletter.
 
 
 
