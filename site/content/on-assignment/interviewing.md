@@ -19,14 +19,14 @@ Check in with a Documenters Manager for requirements on this role.
 
 ## CHECKLIST
 
-* Do your research and make a list of pre-interview questions
-* If your interview is scheduled, always show up early
-* When interviewing in the field, seek out a diverse field of interviewees
-* Introduce yourself
-* Have your interviewee spell his or her full name
-* Ask open- and closed-ended questions
-* Always write quotes verbatim (be sure to note when paraphrasing)
-* Recommended: Use a recording device (always ask for permission to record)
+- [ ] Do your research and make a list of pre-interview questions
+- [ ] If your interview is scheduled, always show up early
+- [ ] When interviewing in the field, seek out a diverse field of interviewees
+- [ ] Introduce yourself
+- [ ] Have your interviewee spell his or her full name
+- [ ] Ask open- and closed-ended questions
+- [ ] Always write quotes verbatim (be sure to note when paraphrasing)
+- [ ] Recommended: Use a recording device (always ask for permission to record)
 
 ## ON ASSIGNMENT NOW?
 
