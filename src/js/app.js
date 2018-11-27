@@ -11,7 +11,13 @@ function expandCollapse() {
   });
 }
 
+function activateCheckboxes() {
+  document.querySelectorAll('input[type="checkbox"][disabled]').forEach((el) => {
+    el.disabled = false;
+  });
+}
+
 document.addEventListener("DOMContentLoaded", () => {
-  console.log("DOM ready");
   expandCollapse();
+  activateCheckboxes();
 });
