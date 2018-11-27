@@ -40,15 +40,15 @@ inmenu: true
 
 ## CHECKLIST
 
-* Create a Twitter account if you don’t have one
-* Call ahead to check for available wi-fi connection
-* Search and use popular or common hashtags related to the meeting, department or issue
-* Send multiple tweets via a single “thread”
-* Check your notifications for replies and responses
-* When possible, refer to people and organizations directly by using the @ function
-* Tweet video and/or photos of the meeting along with your posted text
-* See the Meeting Notes Guide for more content recommendations
-* Follow local officials and attendees for future updates and communication
+- [ ] Create a Twitter account if you don’t have one
+- [ ] Call ahead to check for available wi-fi connection
+- [ ] Search and use popular or common hashtags related to the meeting, department or issue
+- [ ] Send multiple tweets via a single “thread”
+- [ ] Check your notifications for replies and responses
+- [ ] When possible, refer to people and organizations directly by using the @ function
+- [ ] Tweet video and/or photos of the meeting along with your posted text
+- [ ] See the Meeting Notes Guide for more content recommendations
+- [ ] Follow local officials and attendees for future updates and communication
 
 ## ON ASSIGNMENT NOW?
 
