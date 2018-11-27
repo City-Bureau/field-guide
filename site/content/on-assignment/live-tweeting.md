@@ -3,9 +3,9 @@ title: Live-tweeting
 order: '2'
 inmenu: true
 ---
-Social media is a great way to have your voice heard, inform your community and connect with engaged global citizens. Twitter is a good place to start in addition to platforms such as Facebook, Instagram, and Snapchat.
-
-Note: All Documenters live-tweeting assignments must be tweeted in a single "thread"—see further instructions on threading below.
+> Social media is a great way to have your voice heard, inform your community and connect with engaged global citizens. Twitter is a good place to start in addition to platforms such as Facebook, Instagram, and Snapchat.
+>
+> Note: All Documenters live-tweeting assignments must be tweeted in a single "thread"—see further instructions on threading below.
 
 ## ASSIGNMENT REQUIREMENTS
 
