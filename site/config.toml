@@ -30,6 +30,11 @@ enableRobotsTXT = true
     name = "Resources"
     url = "/resources/"
     weight = 4
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 5
   
 
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]

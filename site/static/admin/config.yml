@@ -61,6 +61,15 @@ collections:
       - {label: Order, name: order, widget: number}
       - {label: "In Menu?", name: inmenu, widget: boolean}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "contact"
+    label: "Contact"
+    folder: "site/content/contact"
+    create: true
+    fields:
+      - {label: Title, name: title, widget: string}
+      - {label: Order, name: order, widget: number}
+      - {label: "In Menu?", name: inmenu, widget: boolean}
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "main"
     label: "Intro"
     files:
