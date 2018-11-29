@@ -50,12 +50,13 @@ function buildSW(cb) {
   swPrecache.write(`${rootDir}/service-worker.js`, {
     cacheId: "docs-field-guide",
     staticFileGlobs: [
-      "dist/assets/app.{css,js}",
+      "dist/assets/app.*.{css,js}",
       "dist/**/*.html",
       "dist/icons/**.*",
       "dist/img/**.*",
     ],
     stripPrefix: "dist",
+    dontCacheBustUrlsMatching: /\.*assets\.*/,
   }, cb);
 }
 
@@ -75,8 +76,8 @@ gulp.task("webpack", buildWebpack);
 gulp.task("service-worker", buildSW);
 
 // Build/production tasks
-gulp.task("build", gulp.series("hugo", "webpack", "service-worker"));
+gulp.task("build", gulp.series("webpack", "hugo", "service-worker"));
 gulp.task("build-preview", gulp.parallel("webpack"));
 
 // Run server tasks
-gulp.task("server", gulp.series(buildHugo, buildWebpack, gulp.parallel(watchFiles, browsersync)));
+gulp.task("server", gulp.series(buildWebpack, buildHugo, gulp.parallel(watchFiles, browsersync)));

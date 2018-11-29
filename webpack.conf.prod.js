@@ -3,6 +3,7 @@ const webpack = require("webpack");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const OptimizeCSSAssetsPlugin = require("optimize-css-assets-webpack-plugin");
 const UglifyJsPlugin = require("uglifyjs-webpack-plugin");
+const ManifestPlugin = require("webpack-manifest-plugin");
 
 const config = {
   target: "web",
@@ -14,7 +15,9 @@ const config = {
   },
   output: {
     path: path.resolve("./dist/assets"),
-    filename: "[name].js"
+    // eslint-disable-next-line
+    filename: chunkData =>
+      chunkData.chunk.name === "cms" ? "[name].js" : "[name].[contenthash].js"
   },
   optimization: {
     minimizer: [
@@ -59,11 +62,14 @@ const config = {
     ]
   },
   plugins: [
-    new MiniCssExtractPlugin({filename: "[name].css"}),
+    new MiniCssExtractPlugin({filename: "[name].[contenthash].css"}),
     new webpack.ProvidePlugin({
       fetch:
         "imports-loader?this=>global!exports-loader?global.fetch!whatwg-fetch"
-    })
+    }),
+    new ManifestPlugin({
+      fileName: "../../site/data/manifest.json"
+    }),
   ],
   resolve: {
     extensions: [".js", ".jsx"]

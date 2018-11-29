@@ -39,7 +39,7 @@
 
   <!-- CSS -->
   <link rel="stylesheet" href="https://use.typekit.net/xbg0srh.css">
-  <link type="text/css" rel="stylesheet" href="{{ .Site.BaseURL }}assets/app.css?{{ now.Unix }}">
+  <link type="text/css" rel="stylesheet" href='{{ .Site.BaseURL }}assets/{{ index .Site.Data.manifest "app.css" }}'>
 
   <!-- Icons -->
   <link rel="shortcut icon" href="/icons/favicon.ico" />

@@ -1,6 +1,7 @@
 const path = require("path");
 const webpack = require("webpack");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
+const ManifestPlugin = require("webpack-manifest-plugin");
 
 const config = {
   target: "web",
@@ -24,11 +25,7 @@ const config = {
       },
       {
         test: /\.(sass|scss|css)$/,
-        use: [
-          MiniCssExtractPlugin.loader,
-          "css-loader",
-          "sass-loader"
-        ]
+        use: [MiniCssExtractPlugin.loader, "css-loader", "sass-loader"]
       },
       {
         test: /\.((png)|(eot)|(woff)|(woff2)|(ttf)|(svg)|(gif))(\?v=\d+\.\d+\.\d+)?$/,
@@ -41,7 +38,10 @@ const config = {
     new webpack.ProvidePlugin({
       fetch:
         "imports-loader?this=>global!exports-loader?global.fetch!whatwg-fetch"
-    })
+    }),
+    new ManifestPlugin({
+      fileName: "../../site/data/manifest.json"
+    }),
   ],
   watchOptions: {
     poll: true
