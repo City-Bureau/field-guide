@@ -20,17 +20,38 @@
   <meta name="description" content="{{ .Site.Params.description }}">
   <meta name="author" content="{{ .Site.Params.author }}">
 
+  <!-- Facebook -->
+  <meta property="og:site_name" content="{{ .Site.Title }}">
+  <meta property="og:title" content="{{ .Site.Title }}">
+  <meta property="og:type" content="website">
+  <meta property="og:description" content="{{ .Site.Params.description }}">
+  <meta property="og:url" content="https://{{ .Site.Params.domain }}/">
+  <meta property="og:image" content="https://{{ .Site.Params.domain }}/icons/documenters-teaser.jpg">
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="{{ .Site.Params.twitter }}">
+  <meta name="twitter:creator" content="{{ .Site.Params.author }}">
+  <meta name="twitter:description" content="{{ .Site.Params.description }}">
+  <meta name="twitter:title" content="{{ .Site.Title }}">
+  <meta name="twitter:url" content="https://{{ .Site.Params.domain }}/">
+  <meta name="twitter:image:src" content="https://{{ .Site.Params.domain }}/icons/documenters-teaser.jpg">
+
   <!-- CSS -->
   <link rel="stylesheet" href="https://use.typekit.net/xbg0srh.css">
   <link type="text/css" rel="stylesheet" href="{{ .Site.BaseURL }}assets/app.css?{{ now.Unix }}">
 
   <!-- Icons -->
   <link rel="shortcut icon" href="/icons/favicon.ico" />
-  <link rel="icon" type="image/png" href="/icons/favicon-196x196.png" sizes="196x196" />
-  <link rel="icon" type="image/png" href="/icons/favicon-96x96.png" sizes="96x96" />
-  <link rel="icon" type="image/png" href="/icons/favicon-32x32.png" sizes="32x32" />
-  <link rel="icon" type="image/png" href="/icons/favicon-16x16.png" sizes="16x16" />
-  <link rel="icon" type="image/png" href="/icons/favicon-128.png" sizes="128x128" />
+  <link rel="icon" type="image/png" href="/icons/icon-192x192.png" sizes="192x192" />
+  <link rel="icon" type="image/png" href="/icons/icon-128x128.png" sizes="128x128" />
+  <link rel="icon" type="image/png" href="/icons/icon-96x96.png" sizes="96x96" />
+  <link rel="icon" type="image/png" href="/icons/icon-32x32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="/icons/icon-16x16.png" sizes="16x16" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png">
+  <meta name="msapplication-TileColor" content="#ffc40d">
+  <meta name="msapplication-config" content="/icons/browserconfig.xml">
+  <meta name="theme-color" content="#ffc40d">
 
   <!-- RSS -->
   <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
