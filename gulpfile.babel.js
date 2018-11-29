@@ -57,6 +57,10 @@ function buildSW(cb) {
     ],
     stripPrefix: "dist",
     dontCacheBustUrlsMatching: /\.*assets\.*/,
+    runtimeCaching: [{
+      urlPattern: /\.*/,
+      handler: "networkFirst",
+    }],
   }, cb);
 }
 
