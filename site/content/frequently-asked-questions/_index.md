@@ -19,8 +19,6 @@ inmenu: true
 > 6. Be sure to click “Submit” at the top of the page when you’re done.
 > 7. Once this is completed, you should see an option to apply for assignments when you click on them in the assignments tab.
 
-
-
 ## When I click on an assignment, there isn’t any way to apply for it. How do I apply?
 
 > **Answer:**
@@ -28,8 +26,6 @@ inmenu: true
 > You can view all open assignments on the right side of the assignments tab of Documenters.org. If you do not see this it is either because you are not logged in to your account or you have not yet updated your application.
 >
 > If you do not see your initials in the upper right corner of the screen, click on the blue “Log in” button to log into your account. If you are logged in, you may need to update your application.
-
-
 
 ## WHEN I CLICK ON THE EMAIL LINK TO BETA.DOCUMENTERS.ORG ON MY PHONE, I GET A “BAD TOKEN” MESSAGE. HOW DO I GET AROUND THIS?
 
@@ -39,7 +35,11 @@ inmenu: true
 >
 > Opening the link from a desktop or laptop computer should also fix this issue.
 
+## I JUST APPLIED FOR AN ASSIGNMENT. WHEN WILL I KNOW IF I WAS SELECTED?
 
+> **Answer:**
+>
+> We typically post assignments for the following week on Tuesday afternoon and assign roles on Friday morning so you have the weekend to prepare. If you are not selected you can apply to the waitlist in the event that a role opens up. This doesn't happen often but if it does you'll have shorter notice, likely 12-48 hours before the meeting.
 
 ## HOW CAN I PREPARE FOR MY ASSIGNMENT?
 
@@ -48,8 +48,6 @@ inmenu: true
 > Review meeting documentation included with your assigned meeting, including meeting minutes, agenda, transcripts, previous Documenter content, etc (not all meetings will have documentation but most will).
 >
 > Clicking on “View original meeting details” or “View source” will take you to the website where we got the meeting time and date information.
-
-
 
 ## HOW DO I SUBMIT MY NOTES OR TWITTER THREAD AFTER ATTENDING A MEETING?
 
@@ -60,3 +58,9 @@ inmenu: true
 > Click on the Google Doc thumbnail at the bottom of the submission form to copy/paste your notes. All notes should be submitted via the Google Doc attached to your assignment.
 >
 > See the “Before You Begin” section of this Field Guide for more tips, tricks and resources on preparing for your assignment.
+
+## WHEN WILL I GET PAID?
+
+> **Answer:**
+>
+> Once a submission is approved, you should receive payment via Gusto within ten business days.
