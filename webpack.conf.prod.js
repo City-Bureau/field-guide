@@ -17,16 +17,6 @@ const config = {
     filename: "[name].js"
   },
   optimization: {
-    splitChunks: {
-      cacheGroups: {
-        vendor: {
-          chunks: "initial",
-          name: "vendor",
-          test: /node_modules/,
-          enforce: true
-        }
-      }
-    },
     minimizer: [
       new UglifyJsPlugin({
         cache: true,

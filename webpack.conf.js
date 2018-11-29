@@ -14,18 +14,6 @@ const config = {
     path: path.resolve("./dist/assets"),
     filename: "[name].js"
   },
-  optimization: {
-    splitChunks: {
-      cacheGroups: {
-        vendor: {
-          chunks: "initial",
-          name: "vendor",
-          test: /node_modules/,
-          enforce: true
-        }
-      }
-    }
-  },
   module: {
     rules: [
       {

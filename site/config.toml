@@ -6,8 +6,10 @@ enableRobotsTXT = true
 
 [params]
   subtitle = "Field guide site"
-  description = "Field guide for Documenters program"
+  description = "Field guide for City Bureau's Documenters program"
   author = "City Bureau"
+  domain = "fieldguide.documenters.org"
+  twitter = "CHIDocumenters"
 
 [menu]
   [[menu.main]]
