@@ -3,7 +3,7 @@
   "short_name": "Field Guide",
   "theme_color": "#f8e71c",
   "background_color": "#f8e71c",
-  "display": "standalone",
+  "display": "browser",
   "Scope": "/",
   "start_url": "/",
   "icons": [
