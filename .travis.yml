@@ -21,7 +21,8 @@ cache:
     - node_modules
 script:
   - yarn build
-  - az storage blob upload-batch -s ./dist/ -d '$web' --account-name documentersguide
+  - az storage blob upload-batch -s ./dist/ -d '$web' --content-cache-control 'max-age=86400' --account-name documentersguide
+  - ls ./dist/assets/app.* | grep -v 'map$' | xargs basename | xargs -I % az storage blob upload -f ./dist/assets/% -c '$web' -n assets/% --content-cache-control 'max-age=31536000' --account-name documentersguide
   - az storage blob upload -f ./dist/admin/config.yml -c '$web' -n admin/config.yml --content-type application/x-yaml --account-name documentersguide
   - az cdn endpoint purge -g documenters -n documentersguide --profile-name documentersguide --content-paths "/"
   - az cdn endpoint purge -g documenters -n documentersguide --profile-name documentersguide --content-paths "/*"
