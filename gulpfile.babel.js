@@ -52,7 +52,6 @@ function buildSW(cb) {
     staticFileGlobs: [
       "dist/assets/app.*.{css,js}",
       "dist/**/*.html",
-      "dist/icons/**.*",
       "dist/img/**.*",
     ],
     stripPrefix: "dist",

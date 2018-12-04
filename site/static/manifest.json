@@ -1,10 +1,11 @@
 {
   "name": "Documenters Field Guide",
   "short_name": "Field Guide",
+  "description": "Field guide for City Bureau's Documenters program",
   "theme_color": "#f8e71c",
   "background_color": "#f8e71c",
   "display": "standalone",
-  "Scope": "/",
+  "scope": "/",
   "start_url": "/",
   "icons": [
     {
@@ -47,6 +48,5 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ],
-  "splash_pages": null
+  ]
 }
