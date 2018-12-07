@@ -1,6 +1,6 @@
 ---
 title: Pre-research
-order: '6'
+order: '1'
 inmenu: true
 ---
 If you’ve selected your meeting or area of interest, be sure to study up before you attend.
