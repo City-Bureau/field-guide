@@ -68,6 +68,8 @@ section.hero.is-fullheight {
 
           .is-main-link {
             margin-bottom: grid(3);
+            display: flex;
+            justify-content: space-between;
           }
 
           h1 {
@@ -135,6 +137,23 @@ main.content {
 .sticky-sidebar {
   position: sticky;
   top: grid(2);
+  height: calc(100vh - #{grid(4)});
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+svg.logo {
+  width: grid(8);
+  height: grid(8);
+
+  &.top {
+    display: none;
+  }
+
+  &.bottom {
+    margin: grid(2) 0;
+  }
 }
 
 @media screen and (max-width: $tablet) {
@@ -155,6 +174,19 @@ main.content {
     article {
       width: unset;
       max-width: grid(75);
+    }
+  }
+
+  .sticky-sidebar {
+    height: unset;
+  }
+
+  svg.logo {
+    &.top {
+      display: inherit;
+    }
+    &.bottom {
+      display: none;
     }
   }
 }
