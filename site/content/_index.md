@@ -9,15 +9,11 @@ Documenters are citizens and civic actors; creators and collaborators; represent
 
 The Documenters Program provides practical, actionable solutions for civic disengagement, news literacy deficits and public distrust of news media and civic processes.
 
-
-
 ## What Can I Learn By Being a Documenter...
 
 A lot about the place where you live! What is your City Council talking about this week? What are Local School Councils, and what community power do they have? What neighborhood is the police department doing outreach in? Who governs your water?
 
 Our Documenters program is a critical component in City Bureau’s mission to bridge the ideals of civic journalism with the economic and political realities in which it exists. In short, Documenters democratize news & information at the local level.
-
-
 
 ## Our Values
 
@@ -27,4 +23,4 @@ Our Documenters program is a critical component in City Bureau’s mission to br
 
 **Civic engagement:** Documenters identify, address and share issues of local concern.
 
-**Journalistic self-expression:** Documenters create space for the expression of experiences, action and ideas through storytelling, media and journalism.
+**Self-expression:** Documenters create space for the expression of experiences, action and ideas through storytelling, media and journalism.
