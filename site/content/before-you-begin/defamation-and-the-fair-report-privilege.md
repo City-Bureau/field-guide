@@ -1,6 +1,6 @@
 ---
 title: Defamation and the Fair Report Privilege
-order: '5'
+order: '6'
 inmenu: true
 ---
 **What is defamation?**
