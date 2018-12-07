@@ -11,13 +11,13 @@ inmenu: true
 >
 > To update your application:
 >
-> 1. Log in to https://beta.documenters.org.
-> 2. Click on your initials in the upper right hand corner.
-> 3. Click on “Profile.”
-> 4. Click on “Edit application.”
-> 5. Click and drag the blue dots to indicate your skill in each of the six areas (photography, audio, video, notetaking, interviewing, social media).
-> 6. Be sure to click “Submit” at the top of the page when you’re done.
-> 7. Once this is completed, you should see an option to apply for assignments when you click on them in the assignments tab.
+> 1. Log in 
+> 2. Click on your initials in the upper right hand corner
+> 3. Click on “Profile”
+> 4. Click on “Edit application”
+> 5. Click and drag the blue dots to indicate your skill in each of the six areas (photography, audio, video, notetaking, interviewing, social media)
+> 6. Be sure to click “Submit” at the top of the page when you’re done
+> 7. Once this is completed, you should see an option to apply for assignments when you click on them in the assignments tab
 
 ## When I click on an assignment, there isn’t any way to apply for it. How do I apply?
 
