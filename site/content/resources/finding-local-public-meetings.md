@@ -1,6 +1,6 @@
 ---
 title: Finding Local Public Meetings
-order: '2'
+order: '1'
 inmenu: true
 ---
 
