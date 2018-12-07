@@ -22,6 +22,7 @@ Common honorifics include:
 * Mr./Mrs./Ms.
 * Chair
 * Clerk
+* Judge
 * Mayor
 * President
 * Secretary
