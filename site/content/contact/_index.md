@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contact Us
 order: '1'
 inmenu: true
 ---
