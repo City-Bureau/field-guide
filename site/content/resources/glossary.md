@@ -1,6 +1,6 @@
 ---
 title: Glossary of Terms
-order: 5
+order: '6'
 inmenu: true
 ---
 * **Adjourn**: to hold a meeting over until a later date.
