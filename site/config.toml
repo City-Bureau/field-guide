@@ -10,6 +10,7 @@ enableRobotsTXT = true
   author = "City Bureau"
   domain = "fieldguide.documenters.org"
   twitter = "CHIDocumenters"
+  googleAnalytics = "UA-68381272-4"
 
 [menu]
   [[menu.main]]
