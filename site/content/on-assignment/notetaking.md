@@ -10,6 +10,12 @@ inmenu: true
 * Your meeting notes should be 1-3 pages in length, single spaced, and submitted via the Google Doc attached to your assignment. The correct Google Doc is shared to your email address each time you are assigned to document a meeting. See **SAMPLE MEETING NOTES TEMPLATE and EXAMPLE MEETING NOTES** below for what to expect.
 * Include at least 10 hyperlinks throughout the text of your notes (a hyperlink is a link in your text that connects readers with an external website (ex. this is a hyperlink)
 
+## EXAMPLE MEETING NOTES 
+
+[Example #1](https://docs.google.com/document/d/13J_QM7jRxJos1ggWHFa_iQeA9-f0svK4r79TCxAhfBs/edit)\
+[Example #2](https://docs.google.com/document/u/2/d/1FLbPcEiXfvcL6N3yiLkRNhU6J1BIerfUsTtMAqupQD0/edit)\
+[Example #3](https://docs.google.com/document/u/2/d/1vu2IJpQyHEdKX2opUc_tyA0CGMPeX3tQYbSvuIgth4g/edit)
+
 ## TIPS
 
 1. **Read the documentation:** Prepare for your assignment by reading any meeting minutes, agendas, transcripts and other documentation associated with your meeting.
@@ -51,11 +57,7 @@ inmenu: true
 6. **Follow-up |** Description: Should a news outlet or community organization follow up? Tell us why.
 7. **Questions |** Description: What are your remaining questions after the assignment.
 
-## MEETING NOTES EXAMPLES
-
-[Example #1](https://docs.google.com/document/d/13J_QM7jRxJos1ggWHFa_iQeA9-f0svK4r79TCxAhfBs/edit)\
-[Example #2](https://docs.google.com/document/u/2/d/1FLbPcEiXfvcL6N3yiLkRNhU6J1BIerfUsTtMAqupQD0/edit)\
-[Example #3](https://docs.google.com/document/u/2/d/1vu2IJpQyHEdKX2opUc_tyA0CGMPeX3tQYbSvuIgth4g/edit)
+## 
 
 ## ON ASSIGNMENT NOW?
 
