@@ -7,8 +7,14 @@ inmenu: true
 
 ## ASSIGNMENT REQUIREMENTS
 
-* Your meeting notes should be 1-3 pages in length, single spaced, and submitted via the Google Doc attached to your assignment. The correct Google Doc is shared to your email address each time you are assigned to document a meeting. See **SAMPLE MEETING NOTES TEMPLATE** below for what to expect.
+* Your meeting notes should be 1-3 pages in length, single spaced, and submitted via the Google Doc attached to your assignment. The correct Google Doc is shared to your email address each time you are assigned to document a meeting. See **SAMPLE MEETING NOTES TEMPLATE and EXAMPLE MEETING NOTES** below for what to expect.
 * Include at least 10 hyperlinks throughout the text of your notes (a hyperlink is a link in your text that connects readers with an external website (ex. this is a hyperlink)
+
+## EXAMPLE MEETING NOTES 
+
+[Example #1](https://docs.google.com/document/d/13J_QM7jRxJos1ggWHFa_iQeA9-f0svK4r79TCxAhfBs/edit)\
+[Example #2](https://docs.google.com/document/u/2/d/1FLbPcEiXfvcL6N3yiLkRNhU6J1BIerfUsTtMAqupQD0/edit)\
+[Example #3](https://docs.google.com/document/u/2/d/1vu2IJpQyHEdKX2opUc_tyA0CGMPeX3tQYbSvuIgth4g/edit)
 
 ## TIPS
 
@@ -31,7 +37,7 @@ inmenu: true
 * **Recommended:** Take video and/or photos of the meeting. Feel free to move about the room to capture the best images.
 * **For digital notes only:** Add links to news stories, research reports, previous meetings notes and related governmental websites in your text
 
-## SAMPLE MEETING NOTES TEMPLATE
+## MEETING NOTES TEMPLATE
 
 **Instructions:** Your notes should be between 1-3 single-spaced pages, contain 8-10 hyperlinks and include details for the following prompts:
 
@@ -51,15 +57,7 @@ inmenu: true
 6. **Follow-up |** Description: Should a news outlet or community organization follow up? Tell us why.
 7. **Questions |** Description: What are your remaining questions after the assignment.
 
-**Ward Night: Ward 22**
-
-Documenter name: Jim Jones
-
-Agency: Chicago City Council Aldermanic Ward Nights
-
-Date: November 25, 2018
-
-
+## 
 
 ## ON ASSIGNMENT NOW?
 

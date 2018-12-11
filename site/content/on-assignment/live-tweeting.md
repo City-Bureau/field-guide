@@ -15,7 +15,11 @@ inmenu: true
     Hi, I’ll be live-tweeting (name/title of event) for @ChiDocumenters #ChiDocumenters
 * Conclude your Twitter thread with a sign off (ex. This concludes the Chicago Board of Education meeting. The next meetings is scheduled for March 23, 2019)
 
-## 
+## EXAMPLE LIVE TWEET THREADS
+
+[Example #1](https://twitter.com/thedryones/status/1004100082285891584)\
+[Example #2](https://twitter.com/grenadine/status/1039628341849063428)\
+[Example #3](https://twitter.com/clairhauser/status/1064893760818032645)
 
 ## TIPS
 
@@ -27,6 +31,18 @@ inmenu: true
 6. **Describe the scene:** Describe features of the room and/or the overall environment (i.e. Was the crowd eager or angry? Did the presenters seem prepared?)
 
 ## 
+
+## CHECKLIST
+
+* Create a Twitter account if you don’t have one
+* Call ahead to check for available wi-fi connection
+* Search and use popular or common hashtags related to the meeting, department or issue
+* Send multiple tweets via a single “thread”
+* Check your notifications for replies and responses
+* When possible, refer to people and organizations directly by using the @ function
+* Tweet video and/or photos of the meeting along with your posted text
+* See the Meeting Notes Guide for more content recommendations
+* Follow local officials and attendees for future updates and communication
 
 ## THREADING YOUR TWEETS
 
@@ -40,19 +56,7 @@ inmenu: true
 
 ![](/img/twitter-field-guide.jpg)
 
-
-
-## CHECKLIST
-
-* Create a Twitter account if you don’t have one
-* Call ahead to check for available wi-fi connection
-* Search and use popular or common hashtags related to the meeting, department or issue
-* Send multiple tweets via a single “thread”
-* Check your notifications for replies and responses
-* When possible, refer to people and organizations directly by using the @ function
-* Tweet video and/or photos of the meeting along with your posted text
-* See the Meeting Notes Guide for more content recommendations
-* Follow local officials and attendees for future updates and communication
+## 
 
 ## ON ASSIGNMENT NOW?
 
