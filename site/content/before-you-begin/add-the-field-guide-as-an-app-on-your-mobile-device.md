@@ -1,5 +1,5 @@
 ---
-title: 'Add the Field Guide as a Mobile Device App '
+title: Add the Field Guide as an App on Your Mobile Device
 order: '1'
 inmenu: true
 ---
@@ -7,11 +7,9 @@ On recent versions of iOS and Android you can add the Documenters Field Guide to
 
 To save on iOS:
 
-Visit [fieldguide.documenters.org](https://fieldguide.documenters.org/) in Safari.
-
-1. Click on the Share icon
-2. Click “Add to Home Screen”
-3. To save on Android
+1. Visit [fieldguide.documenters.org](https://fieldguide.documenters.org/) in Safari.
+2. Click on the Share icon (the box with the arrow pointing up)
+3. Click “Add to Home Screen”
 
 To save on Android:
 
