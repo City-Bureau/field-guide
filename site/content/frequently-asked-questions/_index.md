@@ -13,8 +13,8 @@ inmenu: true
 > 2. Click on the Share icon\
 > 3. Click "Add to Home Screen"
 >
-> **To save on Android:**\
-> \
+> **To save on Android:**
+>
 > 1. Visit [fieldguide.documenters.org](https://fieldguide.documenters.org/) in Chrome.\
 > 2. A dialog should pop up asking if you want to add the site to your home screen, follow the prompt.
 
