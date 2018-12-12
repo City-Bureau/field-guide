@@ -1,5 +1,5 @@
 ---
-title: Add the Field Guide as an App on your mobile device
+title: 'Add the Field Guide as a Mobile Device App '
 order: '1'
 inmenu: true
 ---
