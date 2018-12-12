@@ -9,14 +9,14 @@ On recent versions of iOS and Android you can add the Documenters Field Guide to
 
 **To save on iOS**
 
-- Visit [fieldguide.documenters.org](https://fieldguide.documenters.org/) in Safari.
-- Click on the Share icon
-- Click "Add to Home Screen"
+1. Visit [fieldguide.documenters.org](https://fieldguide.documenters.org/) in Safari.
+2. Click on the Share icon
+3. Click "Add to Home Screen"
 
 **To save on Android**
 
-- Visit [fieldguide.documenters.org](https://fieldguide.documenters.org/) in Chrome.
-- A dialog should pop up asking if you want to add the site to your home screen, follow the prompt.
+1. Visit [fieldguide.documenters.org](https://fieldguide.documenters.org/) in Chrome.
+2. A dialog should pop up asking if you want to add the site to your home screen, follow the prompt.
 
 ## I’ve already completed my application. Why am I getting this reminder that I need to update it?
 
