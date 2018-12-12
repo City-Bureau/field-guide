@@ -19,15 +19,15 @@ inmenu: true
 
 ## CHECKLIST
 
-* Charge your device
-* Silence your device before recording
-* Test audio levels
-* Position your recording device receiver close to your subject
-* Record in a quiet location’
-* Record subjects spelling their full names and contact information
-* Timestamp audio in your notes
-* Save audio files using name/title and date
-* Recommended: use an external, plug-in microphone
+* [ ] Charge your device
+* [ ] Silence your device before recording
+* [ ] Test audio levels
+* [ ] Position your recording device receiver close to your subject
+* [ ] Record in a quiet location’
+* [ ] Record subjects spelling their full names and contact information
+* [ ] Timestamp audio in your notes
+* [ ] Save audio files using name/title and date
+* [ ] Recommended: use an external, plug-in microphone
 
 ## ON ASSIGNMENT NOW?
 
