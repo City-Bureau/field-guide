@@ -64,6 +64,100 @@ inmenu: true
 >
 > See the “Before You Begin” section of this Field Guide for more tips, tricks and resources on preparing for your assignment.
 
+## How Does the Documenters.org pay scale work:
+
+> Our three most common assignments: 1) meeting notes + audio recording 2) live-tweeting + photos 3) special assignments.
+>
+> \
+>
+>
+>
+>
+> \
+>
+>
+> All Documenters.org assignments are based on a pay rate of $16 per hour, however some assignments also include a minimum base rate.
+>
+> \
+>
+>
+> ****
+>
+> \
+>
+>
+> **Public meeting-related assignments:**
+>
+> \
+>
+>
+>
+>
+> \
+>
+>
+> For all meeting related assignments we pay a base rate that covers 2 hours for meeting attendance and 1.5 hours for follow up work such as note cleaning and processing, photo uploading, and post-meeting communication.
+>
+> \
+>
+>
+>
+>
+> \
+>
+>
+> For meetings that over 2 hours we pay $16 per hour, rounded up to the nearest half hour.
+>
+> \
+>
+>
+>
+>
+> \
+>
+>
+> In the event that a Documenters Field Coordinator requests that you add additional detail beyond what is required in the base assignment, we will also pay $16 per hour rounded up to the nearest half hour.
+>
+> \
+>
+>
+>
+>
+> \
+>
+>
+> Please include the exact duration of your assigned meeting in your meeting checklist upon submission (meeting duration is confirmed through meeting minutes, official confirmation and Documenter checklists). All required content must be completed before an assignment is approved and payment is released.
+>
+> \
+>
+>
+>
+>
+> \
+>
+>
+> For cancelled meeting-related assignments, we offer a “kill fee” of $16.
+>
+> \
+>
+>
+> ****
+>
+> \
+>
+>
+> **Street Team and Special Assignments:**
+>
+> \
+>
+>
+>
+>
+> \
+>
+>
+> Unless otherwise noted in the assignment details, Street Team assignments and Special Assignments are paid at $16 per hour rounded up to the nearest half-hour. View your assigned meeting on Documenters.org for details and contact our Documenters Field Coordinator for questions.
+
 ## WHEN WILL I GET PAID?
 
 > Once a submission is approved, you should receive payment via Gusto within ten business days.
