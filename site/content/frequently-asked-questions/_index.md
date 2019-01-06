@@ -76,7 +76,7 @@ inmenu: true
 > \
 >
 >
-> All Documenters.org assignments are based on a pay rate of $16 per hour, however some assignments also include a minimum base rate.
+> All Documenters.org assignments are independent contracts based on a pay rate of $16 per hour, however some assignments also include a minimum base rate.
 >
 > \
 >
