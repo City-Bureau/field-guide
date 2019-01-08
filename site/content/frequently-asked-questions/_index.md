@@ -38,7 +38,7 @@ inmenu: true
 >
 > If you do not see your initials in the upper right corner of the screen, click on the blue “Log in” button to log into your account. If you are logged in, you may need to update your application.
 
-## WHEN I CLICK ON THE EMAIL LINK TO BETA.DOCUMENTERS.ORG ON MY PHONE, I GET A “BAD TOKEN” MESSAGE. HOW DO I GET AROUND THIS?
+## WHEN I CLICK ON THE EMAIL LINK TO WWW.DOCUMENTERS.ORG ON MY PHONE, I GET A “BAD TOKEN” MESSAGE. HOW DO I GET AROUND THIS?
 
 > This has to do with how mobile email apps deal with Internet links. If you are on a mobile device, try copying the link (hold down on the URL with your finger until you see the option to “copy”) then exit your mail app and pasting the link in your Internet browser app.
 >
