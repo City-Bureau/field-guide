@@ -65,11 +65,16 @@ section.hero.is-fullheight {
           background-color: $accentColor;
           flex: 1 1 auto;
           flex-direction: column;
+          max-width: 100%;
 
           .is-main-link {
             margin-bottom: grid(4);
             display: flex;
             justify-content: space-between;
+
+            a {
+              max-width: 100%;
+            }
           }
 
           h1 {
@@ -98,7 +103,7 @@ main.content {
   margin: 0 auto;
 
   article {
-    width: grid(75);
+    max-width: grid(75);
   }
 
   h1, h2, h3 {
@@ -147,7 +152,8 @@ main.content {
 
 
 svg.logo {
-  width: 263px;
+  width: 100%;
+  max-width: 263px;
   height: grid(5.25);
 
   path {
@@ -391,5 +397,54 @@ input[type=checkbox] {
     border-width: 0;
     text-align: center;
     line-height: 1;
+  }
+}
+
+@media print {
+  html {
+    overflow-y: visible;
+  }
+  html, body {
+    display: block;
+  }
+  .hero.is-fullheight {
+    min-height: 0;
+  }
+  body > .section {
+    display: block;
+
+    & > .columns {
+      display: block !important;
+
+      & > .column.is-flex {
+        display: block !important;
+      }
+    }
+  }
+  section.hero.is-fullheight > .columns {
+    flex-direction: column;
+
+    & > .column.sidebar {
+      width: 100%;
+    }
+  }
+  .sticky-sidebar {
+    position: static;
+    height: auto;
+    width: 100%;
+    margin: 0 auto;
+    padding: grid(1);
+  }
+  .footer {
+    display: none;
+  }
+  main.content {
+    padding: grid(2);
+
+    article {
+      width: 100%;
+      max-width: 100%;
+      padding: grid(1);
+    }
   }
 }
