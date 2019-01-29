@@ -19,7 +19,7 @@ inmenu: true
 
 [Example #1](https://twitter.com/thedryones/status/1004100082285891584)\
 [Example #2](https://twitter.com/grenadine/status/1039628341849063428)\
-[Example #3](https://twitter.com/clairhauser/status/1064893760818032645)
+[Example #3](https://twitter.com/o_stovicek/status/1088464145056518144)
 
 ## TIPS
 
@@ -46,17 +46,42 @@ inmenu: true
 
 ## THREADING YOUR TWEETS
 
+Threading keeps your tweets together and in order so that others can easily access and make sense of your live-tweet coverage. Practice threading in advance to make sure you'll be able to do it correctly during a meeting.
+
 1. Navigate to the Twitter home screen by selecting the house icon on the bottom left side of your screen. 
 2. Select the "new tweet" button on the bottom right side of the screen (This button looks like a feather with a plus sign on the bottom right side of your screen)
 3. Write and post your first tweet.
 4. Return to the Twitter home screen.
 5. Select your first tweet.
 6. Tweet your second tweet as a reply to the first.
-7. Reply to each subsequent tweet to create a thread.
+7. Reply to **each subsequent tweet** to create a thread.
 
 ![](/img/twitter-field-guide.jpg)
 
-## 
+## IF YOUR THREAD BREAKS
+
+1. Click on the first tweet of the second thread. 
+2. Click on the caret in the upper right corner to copy the link to the tweet.
+3. Reply to the last tweet of the first thread.
+4. Add text like "Click here to go to the rest of the thread" and paste the copied link.
+5. After this, make sure you go to your last tweet of meeting coverage to continue tweeting.
+
+![](/img/screen-shot-2019-01-29-at-3.56.31-pm.png)
+
+![](/img/screen-shot-2019-01-29-at-3.53.32-pm.png)
+
+## ALTERNATIVE METHOD: PRE-THREAD TWEETS
+
+We prefer in-the-moment tweets but if you're unable to tweet at the meeting or are still getting the hang of Twitter and threading use this method:
+
+1. Type a tweet--but don't post yet.
+2. Tap the blue circle with a plus sign on the lower right side of the text window.
+3. This will organize drafts of your tweets in one thread.
+4. You can tap on any tweet in the thread to edit it.
+5.  If you want to view something else on Twitter, hit "save draft" before you exit the edit window.
+6. Your thread won’t go live until you hit “Tweet all."
+
+![](/img/screen-shot-2019-01-29-at-4.09.29-pm.png)
 
 ## ON ASSIGNMENT NOW?
 
