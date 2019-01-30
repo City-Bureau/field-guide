@@ -56,9 +56,11 @@ Threading keeps your tweets together and in order so that others can easily acce
 6. Tweet your second tweet as a reply to the first, using the speech bubble or the blue "Add Another Tweet" button. Avoid the grey "Add Another Tweet" button as it replies to the selected tweet and may break or loop your thread.
 7. Reply to **each subsequent tweet** to continue the thread.
 
-![](/img/screen-shot-2019-01-30-at-11.43.05-am.png)
+![](/img/screen-shot-2019-01-30-at-12.02.46-pm.png)
 
-![](/img/screen-shot-2019-01-30-at-11.44.04-am.png)
+![](/img/screen-shot-2019-01-30-at-12.02.55-pm.png)
+
+![](/img/screen-shot-2019-01-30-at-12.04.01-pm.png)
 
 ## IF YOUR THREAD BREAKS
 
@@ -68,9 +70,13 @@ Threading keeps your tweets together and in order so that others can easily acce
 4. Add text like "Click here to go to the rest of the thread" and paste the copied link.
 5. After this, make sure you go to your last tweet of meeting coverage to continue tweeting.
 
-![](/img/screen-shot-2019-01-29-at-3.56.31-pm.png)
+![](/img/screen-shot-2019-01-30-at-12.01.16-pm.png)
 
-![](/img/screen-shot-2019-01-29-at-3.53.32-pm.png)
+![](/img/screen-shot-2019-01-30-at-12.01.28-pm.png)
+
+![](/img/screen-shot-2019-01-30-at-12.02.24-pm.png)
+
+
 
 ## ALTERNATIVE METHOD: PRE-THREAD TWEETS
 
