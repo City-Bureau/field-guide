@@ -53,10 +53,12 @@ Threading keeps your tweets together and in order so that others can easily acce
 3. Write and post your first tweet.
 4. Return to the Twitter home screen.
 5. Select your first tweet.
-6. Tweet your second tweet as a reply to the first.
-7. Reply to **each subsequent tweet** to create a thread.
+6. Tweet your second tweet as a reply to the first, using the speech bubble or the blue "Add Another Tweet" button. Avoid the grey "Add Another Tweet" button as it replies to the selected tweet and may break or loop your thread.
+7. Reply to **each subsequent tweet** to continue the thread.
 
-![](/img/twitter-field-guide.jpg)
+![](/img/screen-shot-2019-01-30-at-11.43.05-am.png)
+
+![](/img/screen-shot-2019-01-30-at-11.44.04-am.png)
 
 ## IF YOUR THREAD BREAKS
 
@@ -78,7 +80,7 @@ We prefer in-the-moment tweets but if you're unable to tweet at the meeting or a
 2. Tap the blue circle with a plus sign on the lower right side of the text window.
 3. This will organize drafts of your tweets in one thread.
 4. You can tap on any tweet in the thread to edit it.
-5.  If you want to view something else on Twitter, hit "save draft" before you exit the edit window.
+5. If you want to view something else on Twitter, hit "save draft" before you exit the edit window.
 6. Your thread won’t go live until you hit “Tweet all."
 
 ![](/img/screen-shot-2019-01-29-at-4.09.29-pm.png)
