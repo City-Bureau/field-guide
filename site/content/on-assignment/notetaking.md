@@ -7,7 +7,7 @@ inmenu: true
 
 ## ASSIGNMENT REQUIREMENTS
 
-* Your meeting notes should be 1-3 pages in length, single spaced, and submitted via the Google Doc attached to your assignment. The correct Google Doc is shared to your email address each time you are assigned to document a meeting. See **SAMPLE MEETING NOTES TEMPLATE and EXAMPLE MEETING NOTES** below for what to expect.
+* Your meeting notes should be 1-3 pages in length, single-spaced, and submitted via the Google Doc attached to your assignment. The correct Google Doc is shared to your email address each time you are assigned to document a meeting. See **SAMPLE MEETING NOTES TEMPLATE and EXAMPLE MEETING NOTES** below for what to expect.
 * Include at least 10 hyperlinks throughout the text of your notes (a hyperlink is a link in your text that connects readers with an external website (ex. this is a hyperlink)
 
 ## EXAMPLE MEETING NOTES
@@ -39,25 +39,31 @@ inmenu: true
 
 ## MEETING NOTES TEMPLATE
 
-**Instructions:** Your notes should be between 1-3 single-spaced pages, contain 8-10 hyperlinks and include details for the following prompts:
+**Instructions:** Type or copy your meeting notes below. Include the following details:
 
 * Features of the room and the overall disposition of attendees
 * At least three (3) stated goals of the meeting
 * Comments and stated concerns from attendees (include names)
-* Names and quotes from officials and presenters at the meeting (include titles/ affiliations)
+* Names and quotes from officials and presenters at the meeting (include titles/affiliations)
+* Discussions surrounding proposals and policies—they typically don’t make it into official meeting minutes but can shed light on how and why officials are make certain decisions
 * Any decisions made (did any votes pass? What’s next?)
 
-**Sample subheads:** Use any of the following subhead suggestions to structure your notes.
+**Styles & formatting:** Your notes should be 1-3 single-spaced pages. Using the following best practices will help us maintain consistency across notes and make it easier for readers to navigate. Click [here](https://support.google.com/docs/topic/9046002?hl=en&ref_topic=1382883) for more tips on how to use Google Docs.
+
+* Include 8-10 [hyperlinks](https://support.google.com/docs/answer/45893?co=GENIE.Platform%3DDesktop&hl=en) to resources such as news articles, City of Chicago department pages, professional websites, etc., that provide context or corroboration for your notes.
+* If you have in-depth notes on a particular vote or discussion, they will work best kept together, so make a heading for the topic and use the sample sections as subheadings.
+* If you’re running through a list of decisions, public commenters agency members, etc, bullet points are a great way to present information in a brief and organized way.
+
+**Sample sections:** The following suggestions are intended to help you structure your notes and thoughts, not to compartmentalize them. Every meeting is different, so some may fit better than others.
 
 1. **The Scene |** Description: Nervous energy in the room? Were people excited? Tell us why.
 2. **Community Perspective |** Description: Public comments and concerns (include names).
-3. **Goals and Outcomes |** Description: Successes, solutions and/or next steps.
+3. **Goals |** Description: Stated goals of the meeting or big-picture focus of the agency.
 4. **The Debate |** Description: Disagreements on the major issues and potential solutions at play.
 5. **Policies |** Description: Agenda and action items, presented policies, ordinances or amendments.
-6. **Follow-up |** Description: Should a news outlet or community organization follow up? Tell us why.
-7. **Questions |** Description: What are your remaining questions after the assignment.
-
-## 
+6. **Outcomes |** Description: Successes, solutions and/or next steps.
+7. **Follow-up |** Description: Should a news outlet or community organization follow up? Tell us why.
+8. **Questions |** Description: Are you left wondering anything about what you observed?
 
 ## ON ASSIGNMENT NOW?
 
