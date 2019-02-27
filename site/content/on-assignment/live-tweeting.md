@@ -12,8 +12,9 @@ inmenu: true
 * All Documenters live-tweeting assignments must be tweeting in a single “thread”—see further instructions on threading below.
 * Post at least 10-15 tweets 
   * Your first tweet must include the following text:
-    Hi, I’ll be live-tweeting (name/title of event) for @ChiDocumenters #ChiDocumenters
-* Conclude your Twitter thread with a sign off (ex. This concludes the Chicago Board of Education meeting. The next meetings is scheduled for March 23, 2019)
+    _Hi, I’ll be live-tweeting (name/title of event) for @ChiDocumenters #ChiDocumenters_
+* Conclude your Twitter thread with a sign off, for example:
+  _Meeting adjourned at 12:15 p.m. This concludes the Chicago Board of Education meeting. The next meeting is scheduled for March 23, 2019. For more meeting coverage, check out documenters.org._
 
 ## EXAMPLE LIVE TWEET THREADS
 
@@ -23,9 +24,9 @@ inmenu: true
 
 ## TIPS
 
-1. **Get the basics:** Include information like the meeting start time, the number of people at the event (not including city officials) and the reasons why the meeting is being held.
+1. **Get the basics:** Include information like the meeting start time, the number of people at the event (not including city officials), an explanation of what the agency does in case your readers aren't familiar with it and the agenda items for the day.
 2. **Get the details:** List names of presenters at the meeting (include titles, affiliations and twitter handles, if applicable, and any stated goals of the meeting. When possible include solutions and next steps presented.
-3. **Post visuals:** Add multimedia (Twitter allows for photos, videos and GIFs) and links to relevant external content.
+3. **Post visuals:** Add multimedia (Twitter allows for photos, videos and GIFs) and links to relevant external content, such as timely news articles and official website links.
 4. **Know the quotes:** Tweet the main concerns of attendees and why those concerns were raised by tweeting or paraphrasing relevant comments or concerns from officials and attendees.
 5. **Join the conversation:** Retweeting can be as useful as tweeting. Watch and quote tweet conversations related to your meeting or the issue at hand via hashtags, i.e. words or unspaced phrases with a number sign or pound sign (#) placed before it (ex: #Documenters #FieldGuide).
 6. **Describe the scene:** Describe features of the room and/or the overall environment (i.e. Was the crowd eager or angry? Did the presenters seem prepared?)
