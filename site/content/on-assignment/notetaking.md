@@ -10,11 +10,11 @@ inmenu: true
 * Your meeting notes should be 1-3 pages in length, single spaced, and submitted via the Google Doc attached to your assignment. The correct Google Doc is shared to your email address each time you are assigned to document a meeting. See **SAMPLE MEETING NOTES TEMPLATE and EXAMPLE MEETING NOTES** below for what to expect.
 * Include at least 10 hyperlinks throughout the text of your notes (a hyperlink is a link in your text that connects readers with an external website (ex. this is a hyperlink)
 
-## EXAMPLE MEETING NOTES 
+## EXAMPLE MEETING NOTES
 
 [Example #1](https://docs.google.com/document/d/13J_QM7jRxJos1ggWHFa_iQeA9-f0svK4r79TCxAhfBs/edit)\
 [Example #2](https://docs.google.com/document/u/2/d/1FLbPcEiXfvcL6N3yiLkRNhU6J1BIerfUsTtMAqupQD0/edit)\
-[Example #3](https://docs.google.com/document/u/2/d/1vu2IJpQyHEdKX2opUc_tyA0CGMPeX3tQYbSvuIgth4g/edit)
+[Example #3](https://docs.google.com/document/d/1a-7ZLD716WpanGa-DqyhPdrA9WeBAUkhs_16K8DePS0/edit?usp=sharing)
 
 ## TIPS
 
@@ -47,7 +47,7 @@ inmenu: true
 * Names and quotes from officials and presenters at the meeting (include titles/ affiliations)
 * Any decisions made (did any votes pass? What’s next?)
 
-**Sample subheads: **Use any of the following subhead suggestions to structure your notes.
+**Sample subheads:** Use any of the following subhead suggestions to structure your notes.
 
 1. **The Scene |** Description: Nervous energy in the room? Were people excited? Tell us why.
 2. **Community Perspective |** Description: Public comments and concerns (include names).
