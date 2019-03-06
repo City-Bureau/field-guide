@@ -60,11 +60,11 @@ inmenu: true
 
 > From your assignment approval message (Subject line: “Your next assignment awaits! Instructions and submission guidelines”) click on the hyperlinked role next to your name (“Notetaking” or “Live-tweeting,” etc) to go directly to your submission form. You can also get there by going to “Profile” and clicking on “My assignments,” where you can view all assignments.
 >
-> Click on the Google Doc thumbnail at the bottom of the submission form to copy/paste your notes. All notes should be submitted via the Google Doc attached to your assignment.
+> All notes should be submitted via the Google Doc attached to your assignment. The Google Doc is automatically generated when you are assigned and may be accessed via the email from Google, the thumbnail on your assignment page on Documenters.org, or in your Google Drive. If you type up your notes in a separate file, copy and paste them into the Google Doc.
 >
 > See the “Before You Begin” section of this Field Guide for more tips, tricks and resources on preparing for your assignment.
 
-## How Does the Documenters.org pay scale work:
+## How Does the Documenters.org pay scale work?
 
 > Our three most common assignments: 1) meeting notes + audio recording 2) live-tweeting + photos 3) special assignments.
 >
@@ -92,7 +92,7 @@ inmenu: true
 >
 > \
 >
-> For meetings that over 2 hours we pay $16 per hour, rounded up to the nearest half hour.
+> For meetings that run longer than 2 hours we pay $16 per hour, rounded up to the nearest half hour.
 >
 > \
 >
