@@ -17,7 +17,7 @@ Your documentation at a public meeting can fall into the definition of defamatio
 
 ## The Fair Report Privilege
 
-The Fair Report Privilege shields a publisher (City Bureau) from liability for defamation where two requirements are met: 1) the report is of an official proceeding and 2) the report is complete and accurate or a fair abridgment of the official proceeding.
+The Fair Report Privilege shields reporters and publishers from liability for defamation where two requirements are met: 1) the report is of an official proceeding and 2) the report is complete and accurate or a fair abridgment of the official proceeding.
 
 "Official proceedings" include court proceedings and government meetings. A "fair abridgment" means that the report must convey to readers a substantially correct amount, in other words, the report may not omit, add or charge anything in such a way as to to convey an erroneous or defamatory impression.
 
