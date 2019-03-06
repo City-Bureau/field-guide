@@ -26,6 +26,7 @@ inmenu: true
 
 ## CHECKLIST
 
+* When you are assigned to take notes, a Google Doc for your submission is automatically generated and shared with you. To make sure you receive access, use a Gmail account when you sign up with Documenters or create a Google account for an existing, non-Google email [here](https://accounts.google.com/signUpWithoutGmail).
 * Count or estimate the number of attendees (not including officials)
 * Log what time the meeting started
 * Include names of presenters at the meeting, including titles and affiliations
