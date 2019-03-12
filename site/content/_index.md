@@ -11,7 +11,7 @@ The Documenters Program provides practical, actionable solutions for civic disen
 
 ## What Can I Learn By Being a Documenter...
 
-A lot about the place where you live! What is your City Council talking about this week? What are Local School Councils, and what community power do they have? What neighborhood is the police department doing outreach in? Who governs your water?
+A lot about the place where you live! What is your City Council talking about this week? Who is on your local Board of Police Commissioners, and what community power do they have? What neighborhood is the health department doing outreach in? Who governs your water?
 
 Our Documenters program is a critical component in City Bureau’s mission to bridge the ideals of civic journalism with the economic and political realities in which it exists. In short, Documenters democratize news & information at the local level.
 
