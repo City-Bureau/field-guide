@@ -3,11 +3,9 @@ title: Finding Local Public Meetings
 order: '1'
 inmenu: true
 ---
-
-
 Examples of common city services and departments governed by boards, committees, commissions and advisory councils and subject to the Open Meetings Act.
 
-## Chicago
+## Local 
 
 * Animal Care and Control
 * Board of Ethics
@@ -21,7 +19,7 @@ Examples of common city services and departments governed by boards, committees,
 * Special Service Areas
 * Transit Authority
 
-## Cook County
+## County
 
 * Board of Commissioners
 * Department of Public Health
