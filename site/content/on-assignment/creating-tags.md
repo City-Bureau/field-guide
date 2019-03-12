@@ -10,8 +10,8 @@ inmenu: true
 * Include 5-10 unabbreviated, comma-separated tags in your meeting survey using the formats above.
   * Tags can be:
     * —>Names (Format: Title First Name Last Name, i.e. "Chief Tim Evans"
-    * —>Proper nouns ("Chicago Cultural Center")
-    * —>Neighborhoods ("Englewood," "Pilsen")
+    * —>Proper nouns ("Chicago Cultural Center," "Fisher Building")
+    * —>Neighborhoods ("Englewood," "Corktown")
     * —>Themes ("police," "education," "water")
 
 ## Tips
