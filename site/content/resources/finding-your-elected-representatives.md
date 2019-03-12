@@ -1,7 +1,7 @@
 ---
 title: Finding Your Elected Representatives
 order: '2'
-inmenu: true
+inmenu: false
 ---
 ## Chicago City Council
 
