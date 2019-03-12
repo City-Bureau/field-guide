@@ -51,7 +51,7 @@ inmenu: true
 
 **Styles & formatting:** Your notes should be 1-3 single-spaced pages. Using the following best practices will help us maintain consistency across notes and make it easier for readers to navigate. Click [here](https://support.google.com/docs/topic/9046002?hl=en&ref_topic=1382883) for more tips on how to use Google Docs.
 
-* Include 8-10 [hyperlinks](https://support.google.com/docs/answer/45893?co=GENIE.Platform%3DDesktop&hl=en) to resources such as news articles, City of Chicago department pages, professional websites, etc., that provide context or corroboration for your notes.
+* Include 8-10 [hyperlinks](https://support.google.com/docs/answer/45893?co=GENIE.Platform%3DDesktop&hl=en) to resources such as news articles, governmental department pages, professional websites, etc., that provide context or corroboration for your notes.
 * If you have in-depth notes on a particular vote or discussion, they will work best kept together, so make a heading for the topic and use the sample sections as subheadings.
 * If you’re running through a list of decisions, public commenters agency members, etc, bullet points are a great way to present information in a brief and organized way.
 
@@ -67,5 +67,7 @@ inmenu: true
 8. **Questions |** Description: Are you left wondering anything about what you observed?
 
 ## ON ASSIGNMENT NOW?
+
+In Chicago:
 
 Call or text 708-820-2154 any time with any questions or concerns. For any non-immediate needs email us directly at documenters@citybureau.org.
