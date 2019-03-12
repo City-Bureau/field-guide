@@ -3,7 +3,7 @@ title: Introduction
 ---
 Public meetings are important spaces for democracy, where any resident can participate in civic life and hold public figures accountable. But how does the public know when meetings are happening? It isn’t easy! These events are spread across dozens of websites, rarely in useful data formats.
 
-That’s why City Bureau is working with a network of community organizations, governmental agencies, civic coders and engaged Chicagoans like you on the Documenters Program.
+That’s why City Bureau is working with a network of media outlets, community organizations, governmental agencies, civic coders and engaged citizens like you on the Documenters Program.
 
 Documenters are citizens and civic actors; creators and collaborators; representing a broad base of intergenerational, diverse communities. City Bureau recruits, trains and pays this group of highly engaged citizens to participate in the newsgathering process and contribute to a communal pool of knowledge. Together we're democratizing news & information at the local level and reinvigorating notions of citizenship by using journalism to equip storytellers; employing civic tech to illuminate civic processes; distributing democratized trainings to provide structure around journalistic production; and instituting an hourly wage to value each citizen’s time and efforts. 
 
@@ -24,3 +24,9 @@ Our Documenters program is a critical component in City Bureau’s mission to br
 **Civic engagement:** Documenters identify, address and share issues of local concern.
 
 **Self-expression:** Documenters create space for the expression of experiences, action and ideas through storytelling, media and journalism.
+
+## Our Partners
+
+* Citizen Detroit
+* Outlier Media
+* WDET
