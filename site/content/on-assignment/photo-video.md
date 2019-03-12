@@ -7,7 +7,7 @@ inmenu: true
 
 ## ASSIGNMENT REQUIREMENTS
 
-* Check in with a Documenters Manager for requirements on this role.
+* Check in with a Documenters Field Coordinator for requirements on this role.
 
 ## TIPS
 
@@ -19,20 +19,18 @@ inmenu: true
 
 ## CHECKLIST
 
-- [ ] Charge your device
-- [ ] Check storage space
-- [ ] Familiarize yourself with the controls on your device
-- [ ] Be aware of light and dark spaces
-- [ ] Shoot horizontally
-- [ ] Vary your perspective
-- [ ] Remember the rule of thirds:
-
-
+* Charge your device
+* Check storage space
+* Familiarize yourself with the controls on your device
+* Be aware of light and dark spaces
+* Shoot horizontally
+* Vary your perspective
+* Remember the rule of thirds:
 
 ![Rule of thirds diagram](/img/thirds.png)
 
-
-
 ## ON ASSIGNMENT NOW?
+
+In Chicago:
 
 Call or text 708-820-2154 any time with any questions or concerns. For any non-immediate needs email us directly at documenters@citybureau.org.
