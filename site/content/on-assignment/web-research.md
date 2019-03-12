@@ -9,7 +9,7 @@ Here are some avenues for further exploration:
 
 ## The basics
 
-Start with an online search of keywords related to the department holding your meeting. Timely news articles about City Council can be searched with the words "Chicago City Council" AND the names of specific council members, i.e. Alderman James Smith OR a combination of topics related to your interest, i.e. "Alderman Joe Moore Chicago City Council participatory budgeting".
+Start with an online search of keywords related to the department holding your meeting. Timely news articles about City Council can be searched with the words "Detroit City Council" AND the names of specific council members, i.e. Alderman James Smith OR a combination of topics related to your interest, i.e. "Alderman Joe Moore Chicago City Council participatory budgeting".
 
 Seek out primary sources and trusted news outlets for the most up-to-date and accurate information.
 
@@ -35,7 +35,7 @@ Cities across the country have been making their budgets more transparent by cre
 
 1. Find your municipality’s official website
 2. Use quote marks (“ “) to locate a specific phrase verbatim (i.e. “Mark Murray” voting history)
-3. Use the minus sign (-) to remove results from your search (i.e. “Chicago crime -violence”)
+3. Use the minus sign (-) to remove results from your search (i.e. “Philadelphia crime -violence”)
 4. Use CTRL +F to find a specific word or phrase on a webpage
 5. Use “wildcard search” characters like asterisks (\*) and question marks (?) to widen your searches (i.e. search results for “educat\*” will include educate, educated, education, educational or educator)
 6. Use multiple search engines
