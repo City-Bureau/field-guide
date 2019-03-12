@@ -10,7 +10,6 @@ inmenu: true
 * All Documenters live-tweeting assignments must be tweeting in a single “thread”—see further instructions on threading below.
 * Post at least 10-15 tweets 
   * Your first tweet must include the following text:\
-
     In Chicago:
   * _Hi, I’ll be live-tweeting (name/title of event) for @ChiDocumenters #ChiDocumenters_
     \
@@ -94,6 +93,10 @@ We prefer in-the-moment tweets but if you're unable to tweet at the meeting or a
 
 ## ON ASSIGNMENT NOW?
 
-In Chicago:
+**In Chicago:**
 
 Call or text 708-820-2154 any time with any questions or concerns. For any non-immediate needs email us directly at documenters@citybureau.org.
+
+**In Detroit:**
+
+Call or text 313-510-5523 any time with any questions or concerns. For any non-immediate needs email us directly at vassilis@citizendetroit.org.
