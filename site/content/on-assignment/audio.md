@@ -19,16 +19,18 @@ inmenu: true
 
 ## CHECKLIST
 
-* [ ] Charge your device
-* [ ] Silence your device before recording
-* [ ] Test audio levels
-* [ ] Position your recording device receiver close to your subject
-* [ ] Record in a quiet location’
-* [ ] Record subjects spelling their full names and contact information
-* [ ] Timestamp audio in your notes
-* [ ] Save audio files using name/title and date
-* [ ] Recommended: use an external, plug-in microphone
+* Charge your device
+* Silence your device before recording
+* Test audio levels
+* Position your recording device receiver close to your subject
+* Record in a quiet location’
+* Record subjects spelling their full names and contact information
+* Timestamp audio in your notes
+* Save audio files using name/title and date
+* Recommended: use an external, plug-in microphone
 
 ## ON ASSIGNMENT NOW?
+
+In Chicago:
 
 Call or text 708-820-2154 any time with any questions or concerns. For any non-immediate needs email us directly at documenters@citybureau.org.
