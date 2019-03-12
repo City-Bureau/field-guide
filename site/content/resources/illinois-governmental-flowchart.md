@@ -1,7 +1,7 @@
 ---
 title: Illinois Governmental Flowchart
 order: '3'
-inmenu: true
+inmenu: false
 ---
 ## Illinois State Government
 
