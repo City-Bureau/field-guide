@@ -1,36 +1,72 @@
 ---
-title: Recording Public Meetings
+title: Attending and Recording Public Meetings
 order: '5'
 inmenu: true
 ---
-## Overview:
+## The right to attend public meetings:
 
-A "meeting" is any gathering of a majority quorum of the members of a public body held for the purpose of discussing public business.
+Under the Illinois Open Meetings Act (OMA) establishes as public policy that all public-bodies in the state will be by default open to the public and that public bodies will provide advance notice of their meetings. 
 
-Your right to record public meetings is protected by under the Open Meetings Act but be sure to familiarize yourself with (and comply with) the relevant media policies for the public media you are assigned to. 
+The OMA does allow for exceptions, mostly when other rights would be compromised, but the Act establishes clearly that these are to be narrowly and strictly defined. 
 
-Be careful not to inadvertently record private conversations while covering public meetings.
+## What counts as a public body:
+
+The OMA takes a very broad definition of what counts as a “public body.” It includes:
+
+> _all legislative, executive, administrative or advisory bodies of the State, counties, townships, cities, villages, incorporated towns, school districts and all other municipal corporations, boards, bureaus, committees or commissions of this State, and any subsidiary bodies of any of the foregoing including but not limited to committees and subcommittees which are supported in whole or in part by tax revenue, or which expend tax revenue, except the General Assembly and committees or commissions thereof._
+
+## What counts as a meeting:
+
+A “meeting” is any gathering of a majority quorum of the members of a public body held for the purpose of discussing public business. Let’s break that down.
+
+1. “A gathering” -- this is broad, and includes meetings held by phone or digital communications like chat or email
+2. “Of a majority of a quorum” means the quorum (the number of members that need to be present for the body to pass official motions) divided by two plus one. For example, if the committee has fifteen members and eight are required for a quorum, five people (eight divided by two plus one)need to be present for the gathering to count as a meeting.
+3. “For the purposes of discussing public business” — the attorney general of Illinois has said this is aimed at “discussions that are deliberative in nature” and not “casual remarks.” Ceremonial or social gatherings would not qualify, unless officials use the time to discuss public business.
+
+
+
+## Exceptions to the OMA:
+
+The Illinois Open Meetings act carves out 34 exceptions to the policy of open meetings. Most of these involve areas where public deliberations would compromise other rights or where there’s a compelling argument that the process itself would have less integrity if it were public. Examples include collective bargaining agreements, discussions that involve the medical or student records of individuals, deliberations about appointments, and 
+
+You can read the complete list in section 2c of the act. 
+
+More important than the full list of exceptions is the rule that public meetings are public by default unless and until the public body closes the meeting by citing an exception. 
+
+**Here’s the relevant language from the OMA:**
+
+_The exceptions are to be strictly construed, extending only to subjects clearly within their scope. The exceptions authorize but do not require the holding of a closed meeting to discuss a subject included within an enumerated exception._ 
+
+You should assume meetings are open unless and until you are told otherwise.
+
+**Takeaways:**
+
+* All of the meetings Documenters are assigned to should be covered under the OMA because they are meetings of public bodies organized for the purposes of discussing public business. 
+* There are some exceptions to the OMA. If you are denied entry or asked to leave all or part of a meeting you should comply, but ask for an explanation and record it in your notes.
+
+
+
+## The right to record public meetings:
+
+**Public body meetings are open by default**
+
+According to the Illinois Code of Civil Procedure, “any person may record the proceedings at meetings required to be open \[under the Illinois Open Meetings Act] by tape, film or other means,” however, “the authority holding the meeting shall prescribe reasonable rules to govern the right to make such recordings.”
+
+Your right to record public meetings is protected by under the Open Meetings Act but be sure to familiarize yourself with (and comply with) the relevant media policies for the public media you are assigned to.
 
 When in doubt, comply when a governmental body insists you not record a meeting—but be sure to describe the reasons given and the circumstances in which the rule was provided in your notes and/or checklist.
 
-## In Illinois:
+ 
 
-The Illinois Open Meetings Act (“Act”) ensures that members of the public “may record the proceedings at meetings required to be open” under the Act, which include “all meetings of public bodies,” subject to certain exceptions. “Public bodies” include “all legislative, executive, administrative or advisory bodies” of the state, counties, towns, cities, and school districts. A “meeting” for purposes of the Act is “any gathering . . . of a majority of a quorum of the members of a public body held for the purpose of discussing public business.”Meetings of public bodies may be closed, however, where the public body considers a number of subjects, such as employment issues, collective negotiating matters, and security procedures, among others. 
+**Do not record private conversations**
 
-Witnesses may not be compelled to testify at certain public meetings if they will be broadcast, televised, or filmed. Thus, to the extent witnesses object to having their testimony recorded, the authority holding the meeting must prohibit such recording.  The public entity holding the meeting must “prescribe reasonable rules” regarding the recording of public meetings. Id. Documenters should therefore make sure to familiarize themselves with (and comply with) the relevant media policies for the public meetings they cover.
+Be careful not to inadvertently record private conversations while covering public meetings.
 
-Documenters should be careful not to inadvertently record private conversations while covering public meetings. Illinois law makes it a criminal offense to knowingly and intentionally record private conversations, in a surreptitious manner, without the consent of all the parties to the conversation. 
+In Illinois, all parties involved in a private conversation must consent to being recorded, and recording a conversation may be illegal if it the recording is done 1) “surreptitiously,” meaning secretly, stealthily, deceptively or through concealment, and 2) the parties in the conversation have a “reasonable expectation” of privacy. The standard for “reasonable expectation” is not entirely clear, but a good rule of thumb is whether or not people could reasonably expect to be overheard by someone not involved in the conversation. 
 
-## In Michigan:
+In general if you are in a public room where a meeting is being held, you can assume that there is not a reasonable expectation of privacy. A good practice is not to record conversations outside the space where the public meeting is happening.
 
-Like Illinois, Michigan’s Open Meetings Act also protects the public’s right to record public meetings; attendees may tape-record, videotape, broadcast live on radio, and telecast live on television the proceedings of a public body at a public meeting. However, a public body may establish reasonable rules and regulations in order to minimize the possibility of disrupting the meeting. Id.
+**Takeaways**
 
-Michigan is also an all-party consent state, meaning that it is a criminal offense to eavesdrop on private conversations without the consent of all parties. Documenters must therefore be careful not to record private conversations when covering public meetings.
-
-## In North Carolina:
-
-Like Illinois and Michigan, North Carolina also has a law that establishes the public’s right to photograph, film, tape-record, or “otherwise reproduce” any part of a meeting that is required to be open to the public. A public body in North Carolina may also regulate the placement and use of equipment so as to prevent undue interference with the meeting.
-
-Unlike Illinois and Michigan, North Carolina is a one-party consent state. North Carolina law prohibits someone from “willfully” recording a private conversation without the consent of at least one party to the conversation.  Documenters should therefore be conscious that they do not record private conversations.
-
-## ****
+* Your right to record public meetings is protected by under the Open Meetings Act,  but be sure to familiarize yourself with (and comply with) the relevant media policies for the public media you are assigned to.
+* Be careful not to record private conversations where people may think they are speaking privately, and display your recording device prominently to avoid being “surreptitious.”
