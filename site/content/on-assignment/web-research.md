@@ -21,7 +21,7 @@ Search Documenters.org for meeting notes and social media posts on a range of lo
 
 Campaign finance disclosures detail contributions, receipts, expenditures and debts for local politicians, political candidates committees and lobbyists. All 50 states regulate the way campaign money is spent, but the rules vary dramatically. The most common features include 1) disclosure and reporting requirements, 2) contribution limits to campaigns, and 3) rules for public financing of elections.
 
-To search campaign finance disclosures in Illinois visit [www.elections.il.gov](www.elections.il.gov).
+To search campaign finance disclosures in Illinois visit [www.elections.il.gov](https://www.elections.il.gov/InfoForReporters.aspx).
 
 ## Municipal voting records
 
