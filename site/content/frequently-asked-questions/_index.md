@@ -38,17 +38,17 @@ inmenu: true
 >
 > If you do not see your initials in the upper right corner of the screen, click on the blue “Log in” button to log into your account. If you are logged in, you may need to update your application.
 
-## WHEN I CLICK ON THE EMAIL LINK TO WWW.DOCUMENTERS.ORG ON MY PHONE, I GET A “BAD TOKEN” MESSAGE. HOW DO I GET AROUND THIS?
+## When I click on the email link to www.documenters.org on my phone, I get a "bad token" message. How do I get around this?
 
 > This has to do with how mobile email apps deal with Internet links. If you are on a mobile device, try copying the link (hold down on the URL with your finger until you see the option to “copy”) then exit your mail app and pasting the link in your Internet browser app.
 >
 > Opening the link from a desktop or laptop computer should also fix this issue.
 
-## I JUST APPLIED FOR AN ASSIGNMENT. WHEN WILL I KNOW IF I WAS SELECTED?
+## I just applied for an assignment. When will I know if I was selected?
 
 > We typically post assignments for the following week on Tuesday afternoon and assign roles on Friday morning so you have the weekend to prepare. If you are not selected you can apply to the waitlist in the event that a role opens up. This doesn't happen often but if it does you'll have shorter notice, likely 12-48 hours before the meeting.
 
-## HOW CAN I PREPARE FOR MY ASSIGNMENT?
+## How can I prepare for my assignment?
 
 > Review meeting documentation included with your assigned meeting, including meeting minutes, agenda, transcripts, previous Documenter content, etc (not all meetings will have documentation but most will).
 >
@@ -56,7 +56,7 @@ inmenu: true
 >
 > See the "Before You Begin" section of this guide for details, ideas and checklists.
 
-## HOW DO I SUBMIT MY NOTES OR TWITTER THREAD AFTER ATTENDING A MEETING?
+## How do I submit my notes or Twitter thread after attending a meeting?
 
 > From your assignment approval message (Subject line: “Your next assignment awaits! Instructions and submission guidelines”) click on the hyperlinked role next to your name (“Notetaking” or “Live-tweeting,” etc) to go directly to your submission form. You can also get there by going to “Profile” and clicking on “My assignments,” where you can view all assignments.
 >
@@ -64,7 +64,7 @@ inmenu: true
 >
 > See the “Before You Begin” section of this Field Guide for more tips, tricks and resources on preparing for your assignment.
 
-## How Does the Documenters.org pay scale work?
+## How does the Documenters.org pay scale work?
 
 > Our three most common assignments: 1) meeting notes + audio recording 2) live-tweeting + photos 3) special assignments.
 >
@@ -136,6 +136,6 @@ inmenu: true
 >
 > Unless otherwise noted in the assignment details, Street Team assignments and Special Assignments are paid at $16 per hour rounded up to the nearest half-hour. View your assigned meeting on Documenters.org for details and contact our Documenters Field Coordinator for questions.
 
-## WHEN WILL I GET PAID?
+## When will I get paid?
 
 > Once a submission is approved, you should receive payment via Gusto within ten business days.

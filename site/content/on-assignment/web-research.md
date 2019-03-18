@@ -3,7 +3,7 @@ title: Web Research
 order: '6'
 inmenu: true
 ---
-> Accurate news articles, academic research, meeting agendas and related governmental websites can add context and background to your documentation. 
+> Accurate news articles, academic research, meeting agendas and related governmental websites can add context and background to your documentation.
 
 Here are some avenues for further exploration:
 

@@ -20,7 +20,7 @@ enableRobotsTXT = true
     weight = 1
   [[menu.main]]
     identifier = "on-assignment"
-    name = "On assignment"
+    name = "On Assignment"
     url = "/on-assignment/"
     weight = 2
   [[menu.main]]
@@ -34,10 +34,15 @@ enableRobotsTXT = true
     url = "/resources/"
     weight = 4
   [[menu.main]]
+    identifier = "legal-reference"
+    name = "Legal Reference"
+    url = "/legal-reference/"
+    weight = 5
+  [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
-    weight = 5
+    weight = 6
   
 
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
