@@ -39,13 +39,28 @@ inmenu: true
 * **Recommended:** Take photos and/or audio or video recording of the meeting. Feel free to move about the room to capture the best images.
 * **For digital notes only:** Add links to news stories, research reports, previous meetings notes and related governmental websites in your text
 
-## Meeting Notes Template
+## Meeting Notes Template and Style Guide
 
 When you are assigned to take notes at a meeting, a Google Doc for your notes is automatically generated and shared with you. To make sure you receive access, use a Gmail account when you sign up with Documenters or [create a Google account](https://accounts.google.com/signUpWithoutGmail) for an existing, non-Google email.
 
 You will be able to access and edit the Google Doc from the email notification or your Google Drive "Shared with me" files. It will also appear as a thumbnail on your Documenters.org submission page. Click [here](https://docs.google.com/document/d/1hLzvQzts71sDb04bpCmzs6qHkyl_xj8ykXD-1yA3lbc/edit?usp=sharing) to view a sample template.
 
-![Thumbnail image of Google Doc](/img/thumb.png)
+The Google Doc shared with your assignment is preset with the styles listed below. If you take your notes in another program, such as Microsoft Word, keep the formatting simple or paste your text into your assigned Google Doc without formatting (ctrl-shift-v). Click [here](https://support.google.com/docs/topic/9046002?hl=en&ref_topic=1382883) for more tips on how to use Google Docs.
+
+* Font: Nunito, black
+  * Normal Text: 12 pt
+  * Heading 1: 14 pt, bold
+  * Heading 2: 12 pt, bold, italicized
+* Lines and spacing
+  * 1.15 line spacing
+  * No space after section headings
+  * No space between list items
+  * Space after paragraphs
+* Grammar and punctuation: Associated Press Stylebook
+  * Complete sentences and/or bullet-pointed lists
+  * In-line hyperlinks
+
+
 
 ## On Assignment Now?
 
