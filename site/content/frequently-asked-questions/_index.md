@@ -138,4 +138,6 @@ inmenu: true
 
 ## When will I get paid?
 
-> Once a submission is approved, you should receive payment via Gusto within ten business days.
+> After your first submission you’ll receive an email from Gusto, the system we use to manage payments. Click the link in the email to create your account and enter your social security number, address, and bank account coordinates (The information is kept securely by Gusto). Once that information is entered you’ll be set up for direct deposit, and you’ll also be able to login anytime to see your payment records or tax forms.
+>
+> We run payments for all approved assignments every Monday, and the payment will be in your account 5 days after we press the button—usually on Friday of the same week if there are no bank holidays. If you have any questions about payment contact your Documenters Field Coordinator.
