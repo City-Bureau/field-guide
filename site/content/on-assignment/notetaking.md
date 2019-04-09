@@ -43,7 +43,7 @@ inmenu: true
 
 When you are assigned to take notes at a meeting, a Google Doc for your notes is automatically generated and shared with you. To make sure you receive access, use a Gmail account when you sign up with Documenters or [create a Google account](https://accounts.google.com/signUpWithoutGmail) for an existing, non-Google email.
 
-You will be able to access and edit the Google Doc from the email notification or your Google Drive "Shared with me" files. It will also appear as a thumbnail on your Documenters.org submission page. Click [here](https://docs.google.com/document/d/1iClytTCdgBEcKXvbZOHeHWLzEOqU6zPTg97FLS47eus/edit?usp=sharing) to view a sample template.
+You will be able to access and edit the Google Doc from the email notification or your Google Drive "Shared with me" files. It will also appear as a thumbnail on your Documenters.org submission page. Click [here](https://docs.google.com/document/d/1gTzeR845sKvShXYXkKNhVcWbUI_m42Rm4oDLkAo9iYk/edit?usp=sharing) to view a sample template.
 
 The Google Doc shared with your assignment is preset with the styles listed below. If you take your notes in another program, such as Microsoft Word, keep the formatting simple or paste your text into your assigned Google Doc without formatting (ctrl-shift-v). Click [here](https://support.google.com/docs/topic/9046002?hl=en&ref_topic=1382883) for more tips on how to use Google Docs.
 
