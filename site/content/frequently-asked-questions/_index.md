@@ -86,12 +86,10 @@ inmenu: true
 >
 > \
 >
-> > * We pay $16 per hour.
-> > * For meetings that run 2 hours or less, default pay is 3.5 hours: 2 hours for meeting attendance + 1.5 hours for pre-research, follow-up work, note editing, uploading, etc.
-> > * For meetings that run longer, we adjust your compensation to the meeting duration (rounded up to the nearest half hour) + 1.5 hours.
-> > * If your assigned meeting is cancelled less than 72 hours in advance of the scheduled start, we pay a "kill fee" of $16.
->
-> \
+> * We pay $16 per hour.
+> * For meetings that run 2 hours or less, default pay is 3.5 hours: 2 hours for meeting attendance + 1.5 hours for pre-research, follow-up work, note editing, uploading, etc.
+> * If a meeting runs longer, we adjust your compensation to the meeting duration (rounded up to the nearest half hour) + 1.5 hours.
+> * If your assigned meeting is cancelled less than 72 hours in advance of the scheduled start time, we pay a "kill fee" of $16.
 >
 > \
 >
