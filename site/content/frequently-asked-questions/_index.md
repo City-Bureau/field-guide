@@ -86,19 +86,10 @@ inmenu: true
 >
 > \
 >
-> For all meeting related assignments we pay a base rate that covers 2 hours for meeting attendance and 1.5 hours for follow up work such as note cleaning and processing, photo uploading, and post-meeting communication.
->
-> \
->
-> \
->
-> For meetings that run longer than 2 hours we pay $16 per hour, rounded up to the nearest half hour.
->
-> \
->
-> \
->
-> In the event that a Documenters Field Coordinator requests that you add additional detail beyond what is required in the base assignment, we will also pay $16 per hour rounded up to the nearest half hour.
+> > * We pay $16 per hour.
+> > * For meetings that run 2 hours or less, default pay is 3.5 hours: 2 hours for meeting attendance + 1.5 hours for pre-research, follow-up work, note editing, uploading, etc.
+> > * For meetings that run longer, we adjust your compensation to the meeting duration (rounded up to the nearest half hour) + 1.5 hours.
+> > * If your assigned meeting is cancelled less than 72 hours in advance of the scheduled start, we pay a "kill fee" of $16.
 >
 > \
 >
@@ -107,20 +98,6 @@ inmenu: true
 > Please include the exact duration of your assigned meeting in your meeting checklist upon submission (meeting duration is confirmed through meeting minutes, official confirmation and Documenter checklists). All required content must be completed before an assignment is approved and payment is released.
 >
 > \
->
-> \
->
-> For cancelled meeting-related assignments, we offer a “kill fee” of $16.
->
-> \
->
-> \
->
-> Summary:
->
-> * We pay $16 per hour.
-> * Default pay is 3.5 hours: 2 hours for meeting attendance and 1.5 hours for pre-research, follow-up work, note editing, uploading, etc.
-> * For meetings or followup requests exceeding 3.5 hours, we round up to the nearest half hour.
 >
 > \
 >
@@ -140,4 +117,4 @@ inmenu: true
 
 > After your first submission you’ll receive an email from Gusto, the system we use to manage payments. Click the link in the email to create your account and enter your social security number, address, and bank account coordinates (The information is kept securely by Gusto). Once that information is entered you’ll be set up for direct deposit, and you’ll also be able to login anytime to see your payment records or tax forms.
 >
-> We run payments for all approved assignments every Monday, and the payment will be in your account 5 days after we press the button—usually on Friday of the same week if there are no bank holidays. If you have any questions about payment contact your Documenters Field Coordinator.
+> We run payments for all approved assignments every Monday, and, provided you've set up your Gusto profile, the payment will be in your account 5 days after we press the button. If there are no bank holidays, this is usually Friday. If you have any questions about payment contact your Documenters Field Coordinator.
