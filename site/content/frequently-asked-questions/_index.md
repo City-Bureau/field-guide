@@ -38,12 +38,6 @@ inmenu: true
 >
 > If you do not see your initials in the upper right corner of the screen, click on the blue “Log in” button to log into your account. If you are logged in, you may need to update your application.
 
-## When I click on the email link to www.documenters.org on my phone, I get a "bad token" message. How do I get around this?
-
-> This has to do with how mobile email apps deal with Internet links. If you are on a mobile device, try copying the link (hold down on the URL with your finger until you see the option to “copy”) then exit your mail app and pasting the link in your Internet browser app.
->
-> Opening the link from a desktop or laptop computer should also fix this issue.
-
 ## I just applied for an assignment. When will I know if I was selected?
 
 > We typically post assignments for the following week on Tuesday afternoon and assign roles on Friday morning so you have the weekend to prepare. If you are not selected you can apply to the waitlist in the event that a role opens up. This doesn't happen often but if it does you'll have shorter notice, likely 12-48 hours before the meeting.
