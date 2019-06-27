@@ -6,6 +6,7 @@ inmenu: true
 ## Do
 
 * Arrive 10-15 minutes early
+* Keep in mind that you may need to show photo ID and/or go through a security screening at some government buildings
 * Silence your mobile device
 * Sit as closely as possible to speakers/officials
 * Be courteous and respectful to others
