@@ -8,7 +8,7 @@ inmenu: true
 ## Assignment Requirements
 
 * All Documenters live-tweeting assignments must be tweeting in a single “thread”—see further instructions on threading below.
-* Post at least 10-15 tweets 
+* Post at least 10-15 tweets, including photos 
   * Your first tweet must include the following text:
     \
     \
