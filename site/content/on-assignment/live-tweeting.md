@@ -13,11 +13,12 @@ inmenu: true
     \
     \
     **In Chicago:**
-    * _Hi, I’ll be live-tweeting (name/title of event) for @ChiDocumenters #ChiDocumenters_
-    \
-    \
-    **In Detroit:**
-    * _Hi, I’ll be live-tweeting (name/title of event) for #DetroitDocumenters_ 
+    * _Hi, I’ll be live-tweeting today's (name/title of event) for #ChiDocumenters_ 
+      _@ChiDocumenters_
+      \
+      \
+      **In Detroit:**
+    * _Hi, I’ll be live-tweeting today's (name/title of event) for #DetroitDocumenters @WDET @CitizenDetroit_
 * Include basic information like the meeting start time, the number of people at the event (not including city officials), an explanation of what the agency does in case your readers aren't familiar with it and the agenda items for the day.
 * Conclude your Twitter thread with a sign off, for example:
   _Meeting adjourned at 12:15 p.m. This concludes the \[Your City] Board of Education meeting. The next meeting is scheduled for March 23, 2019. For more meeting coverage, check out documenters.org._
@@ -38,15 +39,15 @@ inmenu: true
 
 ## Checklist
 
-* [ ] Do you have a Twitter account? Is it set to public so anyone can follow along with your live-tweet threads? If so, great! If you don't have a Twitter account or prefer to keep yours on private settings, create a new account [here](https://twitter.com/i/flow/signup).
-* [ ] Call ahead to check for available wi-fi connection
-* [ ] Search and use popular or common hashtags related to the meeting, department or issue
-* [ ] Send multiple tweets via a single “thread”
-* [ ] Check your notifications for replies and responses
-* [ ] When possible, refer to people and organizations directly by using the @ function
-* [ ] Tweet video and/or photos of the meeting along with your posted text
-* [ ] See the Meeting Notes Guide for more content recommendations
-* [ ] Follow local officials and attendees for future updates and communication
+* Do you have a Twitter account? Is it set to public so anyone can follow along with your live-tweet threads? If so, great! If you don't have a Twitter account or prefer to keep yours on private settings, create a new account [here](https://twitter.com/i/flow/signup).
+* Call ahead to check for available wi-fi connection
+* Search and use popular or common hashtags related to the meeting, department or issue
+* Send multiple tweets via a single “thread”
+* Check your notifications for replies and responses
+* When possible, refer to people and organizations directly by using the @ function
+* Tweet video and/or photos of the meeting along with your posted text
+* See the Meeting Notes Guide for more content recommendations
+* Follow local officials and attendees for future updates and communication
 
 ## Threading Your Tweets
 
