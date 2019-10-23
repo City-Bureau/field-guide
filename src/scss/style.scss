@@ -45,6 +45,10 @@ body > .section {
   flex: 1 1 auto;
 }
 
+hr {
+  background-color: $grayLight1;
+}
+
 section.hero.is-fullheight {
   padding: 0;
 

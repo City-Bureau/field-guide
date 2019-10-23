@@ -39,10 +39,15 @@ enableRobotsTXT = true
     url = "/legal-reference/"
     weight = 5
   [[menu.main]]
+    identifier = "terms-and-conditions"
+    name = "Terms and Conditions"
+    url = "/terms-and-conditions/"
+    weight = 6
+  [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
-    weight = 6
+    weight = 7
   
 
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
