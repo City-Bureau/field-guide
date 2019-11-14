@@ -1,6 +1,6 @@
 # Documenters Field Guide
 
-[![Build Status](https://travis-ci.org/City-Bureau/field-guide.svg?branch=master)](https://travis-ci.org/City-Bureau/field-guide)
+[![Build status](https://github.com/City-Bureau/field-guide/workflows/CI/badge.svg)](https://github.com/City-Bureau/field-guide/actions)
 
 Static site using Hugo and Netlify for the City Bureau Documenters Field Guide.
 
