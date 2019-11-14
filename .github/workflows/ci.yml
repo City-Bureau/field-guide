@@ -23,6 +23,10 @@ jobs:
       with:
         creds: ${{ secrets.AZURE_CREDENTIALS }}
 
+    - uses: actions/setup-node@v1
+      with:
+        node-version: "10.x"
+
     - run: yarn
 
     - run: yarn build
